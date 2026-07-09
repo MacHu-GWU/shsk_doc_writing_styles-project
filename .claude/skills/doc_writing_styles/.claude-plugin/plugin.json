@@ -1,6 +1,6 @@
 {
   "name": "doc-writing-styles",
-  "description": "",
+  "description": "Personal documentation writing style conventions: Markdown structure and tone, mixed Chinese/English punctuation, and English translation.",
   "version": "0.1.1",
   "author": {
     "name": "Sanhe Hu",
@@ -10,6 +10,9 @@
   "repository": "https://github.com/MacHu-GWU/shsk_doc_writing_styles-project",
   "license": "MIT",
   "keywords": [
-    "claude-code"
+    "claude-code",
+    "documentation",
+    "markdown",
+    "writing-style"
   ]
 }
