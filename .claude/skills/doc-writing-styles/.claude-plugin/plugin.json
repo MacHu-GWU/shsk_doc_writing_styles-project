@@ -1,7 +1,7 @@
 {
   "name": "doc-writing-styles",
   "description": "Personal documentation writing style conventions: Markdown structure and tone, mixed Chinese/English punctuation, and English translation.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Sanhe Hu",
     "email": "husanhe@email.com"
