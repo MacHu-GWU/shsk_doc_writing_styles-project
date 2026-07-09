@@ -38,6 +38,9 @@
             "WebFetch(domain:raw.githubusercontent.com)"
         ]
     },
+    "enabledPlugins": {
+        "coding-agent-docs@sanhe-claude-code-plugin-marketplace": true
+    },
     "extraKnownMarketplaces": {
         "sanhe-claude-code-plugin-marketplace": {
             "source": {
@@ -46,8 +49,5 @@
                 "ref": "0.1.2"
             }
         }
-    },
-    "enabledPlugins": {
-        "coding-agent-docs@sanhe-claude-code-plugin-marketplace": true
     }
 }
