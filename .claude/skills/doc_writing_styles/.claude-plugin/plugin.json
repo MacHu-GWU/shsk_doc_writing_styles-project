@@ -1,0 +1,15 @@
+{
+  "name": "doc-writing-styles",
+  "description": "",
+  "version": "0.1.1",
+  "author": {
+    "name": "Sanhe Hu",
+    "email": "husanhe@email.com"
+  },
+  "homepage": "https://github.com/MacHu-GWU/shsk_doc_writing_styles-project",
+  "repository": "https://github.com/MacHu-GWU/shsk_doc_writing_styles-project",
+  "license": "MIT",
+  "keywords": [
+    "claude-code"
+  ]
+}
