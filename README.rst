@@ -50,7 +50,7 @@ Welcome to ``shsk_doc_writing_styles`` Documentation
 .. image:: https://shsk-doc-writing-styles.readthedocs.io/en/latest/_static/shsk_doc_writing_styles-logo.png
     :target: https://shsk-doc-writing-styles.readthedocs.io/en/latest/
 
-``shsk_doc_writing_styles`` hosts the ``doc-writing-styles`` Claude Code plugin, a personal set of skills that enforce consistent documentation writing conventions: Markdown structure and tone, mixed Chinese/English punctuation, and English translation of existing documents.
+``shsk_doc_writing_styles`` hosts the `doc-writing-styles <https://github.com/MacHu-GWU/shsk_doc_writing_styles-project/tree/main/.claude/skills/doc-writing-styles>`_ Claude Code plugin, a personal set of skills that enforce consistent documentation writing conventions: Markdown structure and tone, mixed Chinese/English punctuation, and English translation of existing documents.
 
 
 .. _install:
