@@ -3,19 +3,19 @@
     :target: https://shsk-doc-writing-styles.readthedocs.io/en/latest/
     :alt: Documentation Status
 
-.. image:: https://github.com/MacHu-GWU/shsk_doc_writing_styles-project/actions/workflows/main.yml/badge.svg
+.. .. image:: https://github.com/MacHu-GWU/shsk_doc_writing_styles-project/actions/workflows/main.yml/badge.svg
     :target: https://github.com/MacHu-GWU/shsk_doc_writing_styles-project/actions?query=workflow:CI
 
-.. image:: https://codecov.io/gh/MacHu-GWU/shsk_doc_writing_styles-project/branch/main/graph/badge.svg
+.. .. image:: https://codecov.io/gh/MacHu-GWU/shsk_doc_writing_styles-project/branch/main/graph/badge.svg
     :target: https://codecov.io/gh/MacHu-GWU/shsk_doc_writing_styles-project
 
-.. image:: https://img.shields.io/pypi/v/shsk-doc-writing-styles.svg
+.. .. image:: https://img.shields.io/pypi/v/shsk-doc-writing-styles.svg
     :target: https://pypi.python.org/pypi/shsk-doc-writing-styles
 
-.. image:: https://img.shields.io/pypi/l/shsk-doc-writing-styles.svg
+.. .. image:: https://img.shields.io/pypi/l/shsk-doc-writing-styles.svg
     :target: https://pypi.python.org/pypi/shsk-doc-writing-styles
 
-.. image:: https://img.shields.io/pypi/pyversions/shsk-doc-writing-styles.svg
+.. .. image:: https://img.shields.io/pypi/pyversions/shsk-doc-writing-styles.svg
     :target: https://pypi.python.org/pypi/shsk-doc-writing-styles
 
 .. image:: https://img.shields.io/badge/✍️_Release_History!--None.svg?style=social&logo=github
