@@ -15,6 +15,23 @@ x.y.z (Backlog)
 **Miscellaneous**
 
 
+0.1.3 (2026-07-29)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Features and Improvements**
+
+- ``chinese-english-punctuation``: extend bracket handling beyond ``（）``/``“”`` to also cover ``【】``, ``［］``, ``《》``, ``〈〉``, ``＜＞``, and ``｛｝``, including correct spacing for nested or adjacent pairs (e.g. ``【《书名》】`` -> ``[<书名>]``).
+- ``chinese-english-punctuation``: preserve leading indentation (spaces/tabs) so Markdown and reStructuredText code blocks and list continuations are no longer mangled by the linter.
+
+**Bugfixes**
+
+- ``chinese-english-punctuation``: normalize empty or whitespace-only lines, and lines consisting of a single punctuation mark, to an empty line instead of leaving stray trailing whitespace.
+
+**Miscellaneous**
+
+- Update ``README.rst`` to link directly to the ``doc-writing-styles`` plugin directory and comment out the CI/codecov/PyPI badges that no longer apply.
+- Bump the ``doc-writing-styles`` plugin version to ``0.1.3`` in ``plugin.json``.
+
+
 0.1.2 (2026-07-09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Miscellaneous**
