@@ -2,6 +2,13 @@
 
 All notable changes to the `chinese-english-punctuation` skill are documented here.
 
+## [0.1.3] - 2026-08-01
+
+- Drop the bundled `scripts/chinese_to_english_punctuation.py` linter. Lint by
+  running the `chinese_to_english_punctuation` PyPI package's `c2ep` CLI via
+  `uvx --from "chinese_to_english_punctuation>=0.1.2" c2ep file --path ...`
+  instead, so this skill no longer maintains a duplicate implementation.
+
 ## [0.1.2] - 2026-07-29
 
 - Ported bracket handling to a generic `BracketPair` table and extended it beyond

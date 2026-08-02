@@ -48,29 +48,22 @@ description: Punctuation convention for mixed Chinese and English documents. Use
 
 ## 3. Lint After Writing
 
-每当你写完或改完一个符合这个风格的 `.md` 文件, 用本 skill 附带的脚本 lint 一遍, 让标点和空格一次到位。脚本是纯标准库实现, 无需安装任何依赖。它逐行套用第 1 节和第 2 节的全部规则, 所以运行之后文档就符合本规范了。
+每当你写完或改完一个符合这个风格的 `.md` 文件, 用 `chinese_to_english_punctuation` 这个 PyPI 包 lint 一遍, 让标点和空格一次到位。本 skill 不再自带脚本, 用 `uvx` 直接跑对应版本的 CLI 即可, 无需在项目里安装依赖。它逐行套用第 1 节和第 2 节的全部规则, 所以运行之后文档就符合本规范了。
 
-脚本用子命令 (subcommand) 模式, 分单文件和批量两种。单文件用 `file`, 第 1 个位置参数是输入文件, 默认原地覆盖它 (类似 `lint --fix`)。
+CLI 名字是 `c2ep`, 子命令 `file` 把一个 UTF-8 文件原地改写, 版本锁定 `>=0.1.2`:
 
 ```bash
-python "${CLAUDE_SKILL_DIR}/scripts/chinese_to_english_punctuation.py" file path/to/doc.md
+uvx --from "chinese_to_english_punctuation>=0.1.2" c2ep file --path path/to/doc.md
 ```
 
-`file` 的第 2 个位置参数是可选的输出文件。给了它就把结果写到那里, 输入文件保持不动。
+批量处理多个文件用 shell 循环, 因为 CLI 本身没有批量子命令:
 
 ```bash
-python "${CLAUDE_SKILL_DIR}/scripts/chinese_to_english_punctuation.py" file path/to/doc.md path/to/out.md
+find docs -name '*.md' -exec uvx --from "chinese_to_english_punctuation>=0.1.2" c2ep file --path {} \;
 ```
 
-批量用 `batch`, 后面跟一串输入文件, 每个都原地覆盖。批量模式没有单独的输出路径, 因为多个输入无法对应一个输出。
+只想看看会改多少行而不真的写文件, 加 `--dry_run`:
 
 ```bash
-python "${CLAUDE_SKILL_DIR}/scripts/chinese_to_english_punctuation.py" batch doc1.md doc2.md doc3.md
-```
-
-两个子命令都支持 `--check`: 只做检查而不写任何文件 (例如在 CI 里用), 若文件需要修改进程返回码为 1。`file` 模式下带 `--check` 会忽略输出路径。
-
-```bash
-python "${CLAUDE_SKILL_DIR}/scripts/chinese_to_english_punctuation.py" file path/to/doc.md --check
-python "${CLAUDE_SKILL_DIR}/scripts/chinese_to_english_punctuation.py" batch *.md --check
+uvx --from "chinese_to_english_punctuation>=0.1.2" c2ep file --path path/to/doc.md --dry_run
 ```

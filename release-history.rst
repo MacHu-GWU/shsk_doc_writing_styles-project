@@ -15,6 +15,15 @@ x.y.z (Backlog)
 **Miscellaneous**
 
 
+0.1.4 (2026-08-01)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Miscellaneous**
+
+- ``chinese-english-punctuation``: drop the bundled ``scripts/chinese_to_english_punctuation.py`` linter now that the ``chinese_to_english_punctuation`` PyPI package covers the same behavior. Lint by running its ``c2ep`` CLI via ``uvx --from "chinese_to_english_punctuation>=0.1.2" c2ep file --path ...`` instead.
+- Bump the ``chinese-english-punctuation`` skill version to ``0.1.3`` in its own ``VERSION``/``CHANGELOG.md``.
+- Bump the ``doc-writing-styles`` plugin version to ``0.1.4`` in ``plugin.json``.
+
+
 0.1.3 (2026-07-29)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Features and Improvements**
