@@ -31,18 +31,20 @@ Translate/rewrite files into English to produce a readable English version.
 
 ### Step 2: Translate files one by one
 
-For each file:
+For each file, run a **mandatory two-pass process**. Never skip Pass B and never merge the two passes into one step — Chinglish artifacts survive when drafting and polishing happen in the same breath. Pass B must be a deliberate, separate re-read of the draft against the source.
 
 1. **Read the source file**
    - Use the Read tool to read the file
    - PDF files are automatically parsed into text
 
-2. **Generate the translated Markdown file**
-   - Output path: replace the source file's extension with `-en.md`
+2. **Determine the output path**
+   - Replace the source file's extension with `-en.md`
    - Example: `/path/to/document.pdf` → `/path/to/document-en.md`
    - Example: `/path/to/notes.txt` → `/path/to/notes-en.md`
 
-3. **Translation rules** (very important):
+3. **Pass A — Draft translation** (Chinese → English)
+
+   Produce a first-pass English draft. Hold it in your working context; do not treat this draft as final output.
 
    **The goal is "rewriting", not word-for-word translation**:
    - Rewrite using natural English logic, phrasing, and everyday scenarios familiar to English readers
@@ -73,19 +75,41 @@ For each file:
    - Figures/diagrams: use `[Figure: description]` as a placeholder
    - Tables: rebuild as Markdown tables when possible; use a placeholder for complex tables
 
-4. **Output format**:
+4. **Pass B — Native-English polish (mandatory second pass)**
+
+   This is a distinct step, not a formality. Explicitly re-approach the Pass A draft as an editor who did not write it: read the **original source** and the **Pass A draft** side by side, paragraph by paragraph, and rewrite the English wording so it reads as if it had been composed natively in English — not translated.
+
+   Target symptoms of Chinglish to actively hunt for and fix:
+   - Sentences that mirror the Chinese clause order instead of natural English syntax
+   - Literal calques (idioms/set phrases translated word-for-word instead of using the natural English equivalent)
+   - Overuse of the same connector words (e.g., "moreover", "in addition", "therefore") mimicking Chinese paragraph transitions
+   - Missing or wrong articles (a/an/the), overly formal or stilted phrasing where the source was conversational, or vice versa
+   - Redundant or repetitive phrasing carried over from Chinese emphasis patterns
+
+   **What Pass B must NOT change** (hard constraints):
+   - Heading/section structure, their nesting level, and their order
+   - Markdown formatting: lists, tables, code blocks, emphasis, links, blockquotes
+   - Which paragraphs/sections exist — do not add, remove, merge, or reorder them
+   - Preserved terms from Pass A: technical terms, chapter/section titles, names, code, formulas, variable names
+   - The actual meaning/facts of the content — this is a wording rewrite, not a re-translation
+
+   **What Pass B CAN freely change**: word choice, sentence boundaries (splitting/merging sentences), sentence order *within* a paragraph, transitions, idiomatic phrasing — anything needed to make it read naturally, as long as the structural constraints above hold.
+
+   The output of Pass B — not the Pass A draft — is the final content that gets written to the `-en.md` file.
+
+5. **Output format**:
    ```markdown
    # [Original title]
 
-   [Translated English content...]
+   [Polished English content...]
 
    ## [Original Section title]
 
-   [Translated English content...]
+   [Polished English content...]
 
    [Image: original image description]
 
-   [Translated English content continues...]
+   [Polished English content continues...]
    ```
 
 ### Step 3: Report completion
@@ -100,10 +124,12 @@ User input: `/translate-to-en /path/to/lecture1.pdf /path/to/notes.md`
 
 Execution:
 1. Read lecture1.pdf
-2. Generate /path/to/lecture1-en.md (English translation)
-3. Read notes.md
-4. Generate /path/to/notes-en.md (English translation)
-5. Report completion
+2. Pass A: draft-translate lecture1.pdf into English
+3. Pass B: re-read the draft against lecture1.pdf and polish it into native-sounding English (structure/format unchanged), then write /path/to/lecture1-en.md
+4. Read notes.md
+5. Pass A: draft-translate notes.md into English
+6. Pass B: re-read the draft against notes.md and polish it into native-sounding English (structure/format unchanged), then write /path/to/notes-en.md
+7. Report completion
 
 ---
 

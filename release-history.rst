@@ -15,6 +15,17 @@ x.y.z (Backlog)
 **Miscellaneous**
 
 
+0.1.5 (2026-08-04)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Features and Improvements**
+
+- ``translate-to-en``: rework the per-file flow into a mandatory two-pass process. Pass A produces a first draft translation; Pass B re-reads that draft against the original source and rewrites the wording to read as native English, specifically targeting Chinglish symptoms (clause order mirrored from the source language, literal calques, repetitive connector words, article errors) while leaving heading structure, Markdown formatting, and preserved terms unchanged.
+
+**Miscellaneous**
+
+- Bump the ``doc-writing-styles`` plugin version to ``0.1.5`` in ``plugin.json``.
+
+
 0.1.4 (2026-08-01)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Miscellaneous**
