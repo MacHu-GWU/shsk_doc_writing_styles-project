@@ -1,0 +1,6 @@
+type = "sentence"
+context = "追问一的回答中描述第一层如何运作, 中文用逗号并列的流水句结构, 直译后英文出现逗号拼接(comma splice)的语法问题."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/05-answering-follow-up-questions/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/05-answering-follow-up-questions/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,5 @@
+type = "sentence"
+context = "这句话说明这个任务的验收标准是什么, 验收核心指的是最终要检查的关键点."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/04-deployment-environment-and-git-branch/TICKET-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/04-deployment-environment-and-git-branch/TICKET.md"
+good_origin = "generated"

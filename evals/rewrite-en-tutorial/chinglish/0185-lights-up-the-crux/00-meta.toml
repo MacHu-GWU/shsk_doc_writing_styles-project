@@ -1,0 +1,6 @@
+type = "paragraph"
+context = "面试官确认客户可能从邮件, 在线聊天, 网页表单, 开放 API 多个渠道进单后, 叙述者点评这句话点出了本题第一个命门(多渠道统一), 并说学生要抓住它."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/14-support-ticketing/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/14-support-ticketing/README.md"
+
+good_origin = "generated"

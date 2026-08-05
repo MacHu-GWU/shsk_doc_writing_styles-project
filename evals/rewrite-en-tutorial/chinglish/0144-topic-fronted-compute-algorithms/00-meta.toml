@@ -1,0 +1,5 @@
+type = "sentence"
+context = "中文用话题优先结构列举'算力''算法'作为句首话题, 后面才接主谓宾说明, 这是典型的中文话题-说明句式."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/01-What-is-Snowflake/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/01-What-is-Snowflake/README.md"
+good_origin = "generated"

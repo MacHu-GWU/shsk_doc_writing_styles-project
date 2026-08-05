@@ -1,0 +1,1 @@
+- **Every entity you create must have a function that actually uses it.** Otherwise, say so explicitly in Section 1 ("out of scope for this version") so you don't leave dangling entities behind.

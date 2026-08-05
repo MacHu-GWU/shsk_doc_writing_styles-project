@@ -1,0 +1,1 @@
+[the second article](../02-building-the-first-expert/README.md) only dug into layer one — using [`claude-code-docs`](../../.claude/skills/claude-code-docs/SKILL.md) as the single example, it walked through the full cycle of discovery, verification, coding, and testing.

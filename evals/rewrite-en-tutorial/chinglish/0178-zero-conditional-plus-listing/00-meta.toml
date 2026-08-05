@@ -1,0 +1,5 @@
+type = "sentence"
+context = "讲怎么按阶段切入这门课时, 用零主语的'想...,读/跳到/看...'结构连续列了四种读法, 数字之间用'加'连接."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/README.md"
+good_origin = "generated"

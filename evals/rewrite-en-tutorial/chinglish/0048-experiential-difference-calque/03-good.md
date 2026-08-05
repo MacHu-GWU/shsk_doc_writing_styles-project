@@ -1,0 +1,1 @@
+**`session.scalars(select(Book))`** returns an iterator of `Book` instances. Instead of a row tuple, you get back a Python object with real methods and attributes. That's the biggest difference in feel between ORM and Core.

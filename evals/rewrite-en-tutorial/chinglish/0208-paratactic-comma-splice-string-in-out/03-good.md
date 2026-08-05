@@ -1,0 +1,1 @@
+- **The agent never sees chroma or embeddings.** All it sees is a tool called `retrieve(query)`: string in, string out. That's the entire point of packaging RAG as a tool.

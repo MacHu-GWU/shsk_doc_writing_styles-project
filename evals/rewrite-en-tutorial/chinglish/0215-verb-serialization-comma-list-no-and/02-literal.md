@@ -1,0 +1,2 @@
+- Step 1: read the whole customer review, classify it as "positive / negative / neutral"
+- Step 2: based on the classification **and** the original review, write a reply with the right tone

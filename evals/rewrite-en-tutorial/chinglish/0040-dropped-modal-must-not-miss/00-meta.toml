@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'还得...一个都不能漏'表达一种强制要求(还必须做到一个都不能漏), 英文把这个情态动词丢掉, 变成松散的分词状语."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README.md"
+
+good_origin = "generated"

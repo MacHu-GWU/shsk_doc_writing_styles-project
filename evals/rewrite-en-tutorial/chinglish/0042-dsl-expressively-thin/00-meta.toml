@@ -1,0 +1,5 @@
+type = "sentence"
+context = "对比 CloudFormation 使用的 JSON/YAML 这种 DSL 和真正编程语言的表达能力差距."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/01-what-is-aws-cdk/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/01-what-is-aws-cdk/README.md"
+good_origin = "generated"

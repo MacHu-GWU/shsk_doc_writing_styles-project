@@ -1,0 +1,6 @@
+type = "sentence"
+context = "同一构造的第二例: 用逗号堆叠术语和括注说明本节内容, 英文直译后仍缺主谓."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,1 @@
+[09-use-github-desktop](09-use-github-desktop/README.md): Use GitHub Desktop to clone a repo to your computer, do your commits, create branches, push, and merge locally without a PR, building a local workflow far smoother than the browser.

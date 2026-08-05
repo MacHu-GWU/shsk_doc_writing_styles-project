@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'就...了'这种口语化的收尾句式, 直接逗号连接两个独立分句, 没有连接词."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README.md"
+
+good_origin = "generated"

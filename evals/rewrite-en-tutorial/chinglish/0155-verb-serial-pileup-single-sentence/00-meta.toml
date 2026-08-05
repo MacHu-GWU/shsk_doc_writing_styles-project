@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这句用汉语连动句的方式把打开文档, 注意到按钮, 顺着提示找到索引, 验证, 编写 Skill, 测试这一连串动作全部塞进一句话里."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/03-the-interview-story/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/03-the-interview-story/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,6 @@
+type = "passage"
+context = "汉语排比句用重复'程序员'这一名词(而非代词)来强调主语, 三个分句连用同一个词; 英文逐字保留了这种重复, 三句都以加粗的'the programmer'开头, 读起来生硬堆叠."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/17-agent-capstone/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/17-agent-capstone/README.md"
+
+good_origin = "generated"

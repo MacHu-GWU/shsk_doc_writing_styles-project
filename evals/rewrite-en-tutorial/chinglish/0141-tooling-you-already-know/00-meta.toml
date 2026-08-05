@@ -1,0 +1,5 @@
+type = "sentence"
+context = "文章结尾说, 用 CLI 操作 Snowflake 这件事你已经脱敏了, 后面无论学什么本质上都是换 SQL 内容, 工具链你已经会了."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/07-CRUD-With-Snowflake-CLI/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/07-CRUD-With-Snowflake-CLI/README.md"
+good_origin = "generated"

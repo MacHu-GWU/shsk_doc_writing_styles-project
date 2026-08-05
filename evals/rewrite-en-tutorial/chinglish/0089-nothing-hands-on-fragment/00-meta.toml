@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'这一块不动手, 但它决定了你后面是在理解还是在死记.'中文话题句省略主语/系动词的结构被直译, 导致英文开头是一个没有动词的残句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/README.md"
+
+good_origin = "generated"

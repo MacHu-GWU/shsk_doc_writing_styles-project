@@ -1,0 +1,6 @@
+type = "passage"
+context = "部署会分成构建阶段和运行阶段, 所以日志会分成两种. 你需要一个能安全试错的地方, 所以会有 Preview 和 Production 的区分. 代码要有唯一的真相来源, 所以会有 GitHub 到 Vercel 这条单向链路."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/07-where-to-go-next/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/07-where-to-go-next/README.md"
+
+good_origin = "generated"

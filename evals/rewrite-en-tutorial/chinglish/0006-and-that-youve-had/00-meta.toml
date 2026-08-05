@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是\"展望\"一节结尾, 强调不管走哪条路, 读者早就掌握了那把\"钥匙\"(会开 PR)."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/11-recap-and-next-steps/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/11-recap-and-next-steps/README.md"
+literal_origin = "archived"
+good_origin = "generated"

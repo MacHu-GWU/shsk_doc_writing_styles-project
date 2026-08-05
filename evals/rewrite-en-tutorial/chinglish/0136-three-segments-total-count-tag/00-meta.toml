@@ -1,0 +1,6 @@
+type = "sentence"
+context = "交代整个系列的结构: 分为理论、实战、复盘三段, 一共 21 篇文章."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/01-rethinking-system-design/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/01-rethinking-system-design/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是\"展望\"一节里, 作者开始分述\"和同事协作\"与\"给开源贡献\"两条路之前, 用来引出第一条路的起头句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/11-recap-and-next-steps/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/11-recap-and-next-steps/README.md"
+literal_origin = "archived"
+good_origin = "generated"

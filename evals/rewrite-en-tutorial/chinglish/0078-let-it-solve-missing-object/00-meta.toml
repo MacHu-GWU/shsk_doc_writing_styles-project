@@ -1,0 +1,5 @@
+type = "sentence"
+context = "描述三层递归模型的第二层, '让它来解' 中的'解'承接前文'这一整类问题', 中文允许省略宾语, 但英文动词 solve 及物, 省略宾语后读起来不完整."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/README.md"
+good_origin = "generated"

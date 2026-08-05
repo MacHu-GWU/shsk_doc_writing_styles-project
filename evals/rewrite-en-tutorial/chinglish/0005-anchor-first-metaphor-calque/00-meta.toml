@@ -1,0 +1,6 @@
+type = "sentence"
+context = "段首用'锚点先放在这'引出全文的核心比喻(把课程内容'钉'在一个参照点上), 字面直译成英文开场白."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/README.md"
+
+good_origin = "generated"

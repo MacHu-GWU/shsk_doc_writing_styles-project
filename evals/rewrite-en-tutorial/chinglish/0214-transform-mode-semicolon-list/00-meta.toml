@@ -1,0 +1,6 @@
+type = "bullet-list"
+context = "作者在介绍 Publish skill 的 Transform mode 时, 用中文分号(；)把五个先后步骤串成一句话里的隐藏列表, 而不是拆成真正的项目符号列表."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README.md"
+
+good_origin = "generated"

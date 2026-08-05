@@ -1,0 +1,1 @@
+Compute just means GPUs, and you can buy those with enough money. Algorithms just mean talent, and you can hire your way to those too. Data is the one thing you can't shortcut like that. It's the private asset a company spends decades accumulating.

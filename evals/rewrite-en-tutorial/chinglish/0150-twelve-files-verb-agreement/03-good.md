@@ -1,0 +1,1 @@
+Twelve files that are nearly identical, differing only in the source and target names, are exactly the kind of thing that goes wrong when you edit them by hand. Fix one and forget another, and all twelve drift out of sync fast.

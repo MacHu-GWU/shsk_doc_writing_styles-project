@@ -1,0 +1,6 @@
+type = "bullet-list"
+context = "列举没有 IaC 时, 团队会遇到的各种问题, 每条都用反问句开头, 再接一个简短的陈述句作为回答."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README.md"
+
+good_origin = "generated"

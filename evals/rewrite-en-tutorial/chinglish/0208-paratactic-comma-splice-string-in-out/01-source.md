@@ -1,0 +1,1 @@
+- **agent 看不见 chroma, 也看不见 embedding**。它只看到一个名叫 `retrieve(query)` 的工具, 字符串进字符串出。这就是 RAG 包成 tool 的全部意义。

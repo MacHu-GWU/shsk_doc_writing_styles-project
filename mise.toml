@@ -115,3 +115,8 @@ depends = ["inst"]
 description = "🔧 Update GitHub repository description and homepage using PyGithub"
 run = ".venv/bin/python .mise/tasks/update-github-metadata.py"
 depends = ["inst"]
+
+# Chinglish Case Library
+[tasks.update-rewrite-en-tutorial-chinglish-index-and-review]
+description = "🔤 Regroup, renumber, and regenerate INDEX.md and tmp/view.md for evals/rewrite-en-tutorial/chinglish"
+run = "python3 .claude/skills/chinglish-index/scripts/reindex.py --folder evals/rewrite-en-tutorial/chinglish"

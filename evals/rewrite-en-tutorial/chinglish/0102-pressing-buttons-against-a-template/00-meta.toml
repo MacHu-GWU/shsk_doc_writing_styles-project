@@ -1,0 +1,6 @@
+type = "sentence"
+context = "提醒读者理解 skill 用法背后的本质, 否则只是机械地照模板操作."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/09-write-bullets/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/09-write-bullets/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "开篇总述前一篇(滑板车运营)与本篇(客服工单系统)侧重点不同, 用'换一副面孔'这个惯用比喻来说明基调转变."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/14-support-ticketing/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/14-support-ticketing/README.md"
+
+good_origin = "generated"

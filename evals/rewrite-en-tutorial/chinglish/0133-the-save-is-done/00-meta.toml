@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是编辑文件三步走教程里, 第三步 \"保存修改\" 的收尾指令, 告诉读者点击按钮后操作就完成了."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/02-edit-files/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/02-edit-files/README.md"
+literal_origin = "archived"
+good_origin = "generated"

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "该句说明本文档是自包含的, 读者能'照着'它写新文档而不必依赖其它篇章."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/system_design_interview_example_standard-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/system_design_interview_example_standard.md"
+
+good_origin = "generated"

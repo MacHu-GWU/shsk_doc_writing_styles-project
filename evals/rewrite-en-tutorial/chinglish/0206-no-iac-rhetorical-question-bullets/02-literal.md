@@ -1,0 +1,5 @@
+- There's no record of what this environment "looks like". Six months later, the developer leaves, and the new person has no documentation. They can only dig through the console one screen at a time.
+- Want to spin up another prod environment? Click through it again, and odds are it won't quite match dev. Tiny differences turn into production incidents.
+- Want to open a new region for another market? Click through it again, cross-referencing the old one, never missing a single setting.
+- Who changed what? No audit trail, no review, no rollback.
+- Disaster recovery? Lose the account and you click for a week.

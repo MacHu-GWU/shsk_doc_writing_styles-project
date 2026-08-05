@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是介绍 File Explorer 文件浏览器面板构成的一句, 具体说明搜索框的作用."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/02-edit-files/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/02-edit-files/README.md"
+literal_origin = "archived"
+good_origin = "generated"

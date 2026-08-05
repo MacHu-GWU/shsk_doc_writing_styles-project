@@ -1,0 +1,1 @@
+Commit message defaults to "Update README.md", so leave it alone. Leave Extended description blank. Then check the commit options and make sure "Commit directly to the main branch" is the one selected.

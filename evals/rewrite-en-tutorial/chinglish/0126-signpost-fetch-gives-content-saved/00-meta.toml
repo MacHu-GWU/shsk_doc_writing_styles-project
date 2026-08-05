@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这句话把'顺着路标去抓 llms.txt'和'内容存在某文件里'两个连动小句压成一句话, 英文字面照搬了这种连动结构."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/02-building-the-first-expert/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/02-building-the-first-expert/README.md"
+
+good_origin = "generated"

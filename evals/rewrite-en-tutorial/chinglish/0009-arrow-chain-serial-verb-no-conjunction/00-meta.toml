@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'字符串 → 包成 {text: ...} 喂给下一步'这条箭头链把三个动作直接串在一起, 没有连接词, 直译成英文后变成逗号串联的连动句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/05-sequential-chains/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/05-sequential-chains/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是全文最后一小节 \"回顾与展望\" 下唯一一条 mini task 的简介, 概括这节课要做的收尾动作."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/README.md"
+literal_origin = "archived"
+good_origin = "generated"

@@ -1,0 +1,1 @@
+- **Every entity that's created has a function that uses it**, otherwise Section 1 explicitly states "out of scope for this version," with no dangling entities left over.

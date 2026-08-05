@@ -1,0 +1,3 @@
+- You have finished lessons 01 through 08 of this course and are comfortable with commit, branch, and merge (you have done them all on the web).
+- A Mac or Windows computer (GitHub Desktop supports both, and the steps are almost identical).
+- A repo you have permission to change, ideally the public practice repo you created in the earlier lessons.

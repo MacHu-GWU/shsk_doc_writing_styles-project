@@ -1,0 +1,1 @@
+It's where code review happens (teammates can leave comments on it pointing out problems), it's how knowledge gets shared (you learn a lot from reviewing other people's PRs), and it's the gate quality has to pass through (plenty of teams won't merge a PR until someone has reviewed it).

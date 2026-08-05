@@ -1,0 +1,6 @@
+type = "sentence"
+context = "描述精修一份简历要经过的五个步骤, 中文是无连接词的动词短语并列."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/05-resume-matrix/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/05-resume-matrix/README.md"
+
+good_origin = "generated"

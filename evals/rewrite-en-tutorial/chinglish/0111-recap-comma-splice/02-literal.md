@@ -1,0 +1,1 @@
+[11-recap-and-next-steps](11-recap-and-next-steps/README.md): Organize the whole course into four storyline segments, use a self-assessment table to confirm what you can do on your own, and see clearly the two paths beyond the "solo" stage (working a job and open source), knowing that knowing how to PR is the shared key.

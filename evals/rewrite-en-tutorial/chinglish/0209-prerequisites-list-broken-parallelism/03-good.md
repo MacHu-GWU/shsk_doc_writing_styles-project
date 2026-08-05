@@ -1,0 +1,3 @@
+- Sections 01 through 08 of this course behind you, so commit, branch, and merge already feel familiar (you've done all three on the website).
+- A Mac or a Windows machine (GitHub Desktop runs on both, and the steps barely differ).
+- A repo you have permission to write to, ideally that public practice repo you created a few sections back.

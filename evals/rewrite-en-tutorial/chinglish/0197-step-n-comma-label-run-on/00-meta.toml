@@ -1,0 +1,6 @@
+type = "passage"
+context = "连续四节(09-12)都用'第N步, XXX'这种逗号标注句式收尾, 直译后变成'Step N,'加逗号粘连的独立分句, 读起来像贴标签而非完整句子."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/README.md"
+
+good_origin = "generated"

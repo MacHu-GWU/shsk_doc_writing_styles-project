@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这句解释这次经历如何完整体现了第一篇里的推理链, 用一连串没有连接词的短句罗列动作."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/03-the-interview-story/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/03-the-interview-story/README.md"
+
+good_origin = "generated"

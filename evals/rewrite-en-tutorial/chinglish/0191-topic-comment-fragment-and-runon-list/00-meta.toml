@@ -1,0 +1,6 @@
+type = "paragraph"
+context = "这段用连续的逗号句列举'抽要点→复制→粘贴→翻译→复制→粘贴→写标题'的动作, 并用一个无主句总结'三步任务你的眼和手做了3次搬运'."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/05-sequential-chains/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/05-sequential-chains/README.md"
+
+good_origin = "generated"

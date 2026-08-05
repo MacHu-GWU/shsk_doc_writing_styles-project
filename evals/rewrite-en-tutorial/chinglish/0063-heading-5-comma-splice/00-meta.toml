@@ -1,0 +1,6 @@
+type = "sentence"
+context = "同样的冒号转逗号问题, '没有⑨, 整个环就停转'本身是完整分句, 与前半句用逗号硬接."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/13-final-synthesis/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/13-final-synthesis/README.md"
+
+good_origin = "generated"

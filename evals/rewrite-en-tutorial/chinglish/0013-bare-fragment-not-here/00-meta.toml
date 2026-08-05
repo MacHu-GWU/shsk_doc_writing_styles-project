@@ -1,0 +1,6 @@
+type = "sentence"
+context = "句末'这里不展开'是汉语常见的省略主谓的收尾短句, 被逐字译成了独立的英文残句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/17-agent-capstone/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/17-agent-capstone/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是第 13 节 \"速查\" 里, 用一串名词把操作路径罗列出来, 方便读者快速定位菜单位置."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/07-add-collaborator/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/07-add-collaborator/README.md"
+literal_origin = "archived"
+good_origin = "generated"

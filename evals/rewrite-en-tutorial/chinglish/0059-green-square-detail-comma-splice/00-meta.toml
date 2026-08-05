@@ -1,0 +1,6 @@
+type = "sentence"
+context = "第 7 节讲贡献图无法造假, 作者举例说明点开任意绿色方块都能看到当天的具体改动."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/05-put-everything-on-github/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/05-put-everything-on-github/README.md"
+literal_origin = "archived"
+good_origin = "generated"

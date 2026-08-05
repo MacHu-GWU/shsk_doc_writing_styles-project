@@ -1,0 +1,1 @@
+Want to understand the rules of the game, read 01 to 04. Want to start writing immediately, jump to 05 plus 09 plus 10. Want to use AI to design a new project, read 06 plus 08. Want the long game, read 12 plus 13.

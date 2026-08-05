@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是文档 frontmatter 里的 description 字段, 用一句话概括整门课能带来的全部能力, 供索引页或搜索结果展示用."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README.md"
+literal_origin = "archived"
+good_origin = "generated"

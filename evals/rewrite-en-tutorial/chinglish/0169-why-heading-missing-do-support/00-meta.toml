@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是一篇讲关系型数据库入门课程的说明文档, 作者用连续三个'为什么……?'标题引出各小节, 这是第三个标题, 解释为什么这门'学 SQL'的课会用到 SQLAlchemy."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README.md"
+
+good_origin = "generated"

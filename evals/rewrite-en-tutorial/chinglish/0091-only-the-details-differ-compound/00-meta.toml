@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'终点前面有大量几乎相同, 只是细节不同的重复劳动'用了中文前置的'的'字定语从句修饰'重复劳动', 直译时被硬造成英文里不成立的复合形容词."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/06-the-mental-model-recursive-decomposition/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/06-the-mental-model-recursive-decomposition/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,1 @@
+Want to understand how the whole thing works? Read 01 through 04. Want to jump straight into building? Skip to 05, 09, and 10. Want to design a new project with AI? Check out 06 and 08. Want the long game? Read 12 and 13.

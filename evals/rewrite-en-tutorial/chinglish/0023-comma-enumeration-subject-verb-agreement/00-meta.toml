@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这句列举了三个并列的名词短语作主语(Stack 定义、App 注册中心、写 CDK 代码的地方), 中文不标记单复数, 直译后英文谓语动词沿用单数形式, 导致主谓不一致."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/05-cdk-entry-and-source/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/05-cdk-entry-and-source/README.md"
+
+good_origin = "generated"

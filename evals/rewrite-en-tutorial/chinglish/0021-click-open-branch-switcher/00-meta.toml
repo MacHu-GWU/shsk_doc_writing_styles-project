@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是练习 3 的操作步骤, 指导读者从 dev-1 切回 main 分支查看效果."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/03-working-with-git-branch/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/03-working-with-git-branch/README.md"
+literal_origin = "archived"
+good_origin = "generated"

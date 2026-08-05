@@ -1,0 +1,5 @@
+type = "sentence"
+context = "'铺垫'(垫定基础的准备工作)被直译为英文名词'setup'却当动词补语使用, 且丢掉了冠词'a'."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/03-Use-Snowflake-On-A-Budget/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/03-Use-Snowflake-On-A-Budget/README.md"
+good_origin = "generated"

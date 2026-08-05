@@ -1,0 +1,1 @@
+Section 8.1 of Chapter 12 covers the case where a single experience has multiple qualify-for/ subdirectories at once. It mentions fine-tuning with bullet-reviewer Mode A, and that's exactly the Mode A this section covers.

@@ -1,0 +1,5 @@
+type = "sentence"
+context = "该标题用中文冒号引出说明性短语'核心问题: 你的简历给谁看?'. 英文直译时把冒号换成了逗号, 生成一个不完整的从句式标题."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/01-hiring/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/01-hiring/README.md"
+good_origin = "generated"

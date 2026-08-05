@@ -1,0 +1,5 @@
+type = "sentence"
+context = "步骤 2 要求关掉教程, 在自己的项目上独立走一遍完整发布流程."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/07-where-to-go-next/TICKET-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/07-where-to-go-next/TICKET.md"
+good_origin = "generated"

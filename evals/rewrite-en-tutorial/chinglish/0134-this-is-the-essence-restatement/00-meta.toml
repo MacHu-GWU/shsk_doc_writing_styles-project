@@ -1,0 +1,6 @@
+type = "sentence"
+context = "在解释多个 Stack 共同服务于一个业务目标之后, 中文用'这就是...的本质'这种复指句式做总结判断."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/03-stack-and-app/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/03-stack-and-app/README.md"
+
+good_origin = "generated"

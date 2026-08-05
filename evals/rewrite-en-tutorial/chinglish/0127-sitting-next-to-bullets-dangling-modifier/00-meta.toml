@@ -1,0 +1,6 @@
+type = "sentence"
+context = "解释为什么把新写的 bullet 直接合并进 master 简历, 好处是能和其他经历的 bullet 放一起对照."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/09-write-bullets/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/09-write-bullets/README.md"
+
+good_origin = "generated"

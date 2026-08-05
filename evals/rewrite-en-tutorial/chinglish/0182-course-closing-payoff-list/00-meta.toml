@@ -1,0 +1,6 @@
+type = "paragraph"
+context = "这是全文最后一段, 也是整门课的收束句, 用一连串并列短语总结读者学完之后能做到的事情, 是一种排比式的总结手法."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README.md"
+literal_origin = "archived"
+good_origin = "generated"

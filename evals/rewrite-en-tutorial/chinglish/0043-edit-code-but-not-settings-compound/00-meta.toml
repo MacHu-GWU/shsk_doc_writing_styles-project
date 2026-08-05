@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是第 11 节 \"回顾\" 部分总结更大规模协作 (如 Organization) 权限档位的一条要点."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/07-add-collaborator/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/07-add-collaborator/README.md"
+literal_origin = "archived"
+good_origin = "generated"

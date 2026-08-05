@@ -1,0 +1,1 @@
+Every script is idempotent, so you can run them in any order. None of them depend on side effects left behind by an earlier one (lessons 12 and 17 use a persistent Chroma store, but both ship with a `--reset` flag).

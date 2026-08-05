@@ -1,0 +1,6 @@
+type = "sentence"
+context = "作者在说明这个教学仓库该怎么读, 打消读者把它当成一本要从头读到尾的大部头书的顾虑."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README.md"
+literal_origin = "archived"
+good_origin = "generated"

@@ -1,0 +1,6 @@
+type = "paragraph"
+context = "说明不同方向的岗位在三层抽象上侧重点不同, 从后端到前端/移动端, 再到数据/ML 工程师, 最后到 DevOps/SRE, 用分号把四类岗位的描述串联成一句话."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/01-rethinking-system-design/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/01-rethinking-system-design/README.md"
+
+good_origin = "generated"

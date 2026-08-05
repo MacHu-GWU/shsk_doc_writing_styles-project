@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'第三块自测, 检验你是不是真的学懂了.'中文主语是'你', 英文却把主语换成了不明确的'it', 造成指代对象丢失."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/README.md"
+
+good_origin = "generated"

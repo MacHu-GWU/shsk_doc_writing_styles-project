@@ -1,0 +1,1 @@
+This is the central idea of the lesson and worth a section of its own. The RAG in lesson 12 was something **the programmer called directly**: `contexts = retrieve(query)`, then **the programmer** stuffed the contexts into the prompt and handed it to the LLM. **The programmer** decided when to retrieve.

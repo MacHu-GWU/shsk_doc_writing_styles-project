@@ -1,0 +1,1 @@
+Deploy to prod and you probably won't dare touch it, since even deleting something means going through an approval process. Deploy into someone else's account and it's even more awkward, because now you're spending their money for them.

@@ -1,0 +1,1 @@
+Two lines of defense. One, `add_expense`'s step 1 requires the sum of shares to equal the total amount, blocking "a book that doesn't balance from the start" at the source. Two, amounts use `Decimal` throughout, ruling out floating-point error.

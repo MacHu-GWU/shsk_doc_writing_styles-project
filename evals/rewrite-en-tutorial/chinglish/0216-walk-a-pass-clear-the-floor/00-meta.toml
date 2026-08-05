@@ -1,0 +1,5 @@
+type = "bullet-list"
+context = "中文动词'清一遍''走一遍'里的'一遍'(做一次全面过一遍的动作)在翻译成英文动词短语时被省略了必要的介词(through/over), 产生'clear the floor''walk the ... list'这类光杆及物动词搭配, 读起来像误用而非地道英语习语."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/README.md"
+good_origin = "generated"

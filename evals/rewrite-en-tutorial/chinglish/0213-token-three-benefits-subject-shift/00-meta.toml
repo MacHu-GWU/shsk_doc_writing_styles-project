@@ -1,0 +1,6 @@
+type = "bullet-list"
+context = "第 6 节列举 token 相对密码的三个优点, 这个三项列表紧接在 'Token 就是为了解决这些而生的, 它有三个密码给不了的好处' 这句总起之后."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/08-create-access-token/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/08-create-access-token/README.md"
+literal_origin = "archived"
+good_origin = "generated"

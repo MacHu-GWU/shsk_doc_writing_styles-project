@@ -1,0 +1,4 @@
+- A plain folder just stores files. A Repo stores them and keeps a history of every change.
+- A plain folder is usually a one-person affair. A Repo is built for people working together from day one.
+- Make a bad edit in a plain folder and it's hard to undo. In a Repo you can turn back the clock to any earlier version, any time.
+- A plain folder can't tell you who changed what. In a Repo, every single change leaves a clear record.

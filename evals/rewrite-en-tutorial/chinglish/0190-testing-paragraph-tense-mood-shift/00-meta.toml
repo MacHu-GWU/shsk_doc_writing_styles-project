@@ -1,0 +1,6 @@
+type = "paragraph"
+context = "中文用无主语、无时态标记的连续动词串描述'随便找页面去问、结果它每次都能定位到对的那一页', 英文逐字照译后前半句读成祈使句, 后半句突然转成过去式叙述, 语气和时态在同一段里断裂."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/02-building-the-first-expert/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/02-building-the-first-expert/README.md"
+
+good_origin = "generated"

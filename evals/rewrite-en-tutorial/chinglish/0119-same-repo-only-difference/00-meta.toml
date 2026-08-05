@@ -1,0 +1,6 @@
+type = "sentence"
+context = "第5节讲 Public 和 Private 的本质区别, 作者在解释同一个仓库只是靠这一个开关来区分可见性."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/06-create-private-repo/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/06-create-private-repo/README.md"
+literal_origin = "archived"
+good_origin = "generated"

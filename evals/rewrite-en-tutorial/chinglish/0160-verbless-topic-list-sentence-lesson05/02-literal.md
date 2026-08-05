@@ -1,0 +1,1 @@
+Two-step chain (`dict-runnable` bridges str to dict), three-step chain (`RunnableLambda` bridges), `RunnablePassthrough.assign` (keeps the original input around), and debug pass-through prints for intermediate values.

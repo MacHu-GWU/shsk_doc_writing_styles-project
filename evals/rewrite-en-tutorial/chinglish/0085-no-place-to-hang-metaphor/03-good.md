@@ -1,0 +1,1 @@
+Nail down these two motivations first, and everything you build afterward has something to hang on. Skip that step, and even the most detailed walkthrough is just a pile of disconnected technical moves.

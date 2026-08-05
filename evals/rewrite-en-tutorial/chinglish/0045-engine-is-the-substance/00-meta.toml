@@ -1,0 +1,5 @@
+type = "sentence"
+context = "讲 CloudFormation 是 AWS 官方的 IaC 引擎, 强调'引擎才是本质'这句话的重要性."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/01-what-is-aws-cdk/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/01-what-is-aws-cdk/README.md"
+good_origin = "generated"

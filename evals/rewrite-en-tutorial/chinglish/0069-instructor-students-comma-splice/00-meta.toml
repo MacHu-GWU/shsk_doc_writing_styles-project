@@ -1,0 +1,6 @@
+type = "sentence"
+context = "描述人们对系统设计的刻板印象: 讲师讲解每个组件的选型理由, 学生拼命记笔记, 仿佛把'积木'记全了就能应付面试."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/01-rethinking-system-design/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/01-rethinking-system-design/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,1 @@
+The rest, things like **what a Construct is, how Construct ID and Logical ID relate to each other, how to set RemovalPolicy, how Tags propagate, how cross-Stack references turn into CloudFormation Outputs and Imports, how Environment binds an account and region**, are all "public knowledge" about CDK. The official docs cover them clearly, and any AI you ask can explain them well.

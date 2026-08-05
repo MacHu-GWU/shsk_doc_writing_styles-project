@@ -1,0 +1,6 @@
+type = "sentence"
+context = "中文标题用冒号引出说明, 英文把冒号换成逗号, 产生逗号拼接两个完整分句(comma splice)."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/13-final-synthesis/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/13-final-synthesis/README.md"
+
+good_origin = "generated"

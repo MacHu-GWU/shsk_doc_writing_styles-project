@@ -1,0 +1,1 @@
+Close the tutorial and run the full flow on your own project by yourself: open a new branch, make a change, commit, find the Preview and verify it, confirm Production is untouched, then merge and release.

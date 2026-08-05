@@ -1,0 +1,6 @@
+type = "sentence"
+context = "第 4 节 \"你将构建或学到什么\", 说明这一节不写新代码, 而是把之前学过的操作在本地重做一遍."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/09-use-github-desktop/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/09-use-github-desktop/README.md"
+literal_origin = "archived"
+good_origin = "generated"

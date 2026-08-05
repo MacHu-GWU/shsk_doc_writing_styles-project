@@ -1,0 +1,6 @@
+type = "sentence"
+context = "中文用逗号列出本节要点(名词短语堆叠), 不需要主谓结构; 直译后变成一句没有主要动词的英文'句子'."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/README.md"
+
+good_origin = "generated"

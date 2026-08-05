@@ -1,0 +1,5 @@
+type = "diagram"
+context = "13-final-synthesis 一节把前面 12 节扣成一个飞轮: 设计 → 填技能 → 执行 → case → bullets → summary → 派生 → 投递 → 反馈, 反馈又驱动下一轮项目设计."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/README.md"
+good_origin = "generated"

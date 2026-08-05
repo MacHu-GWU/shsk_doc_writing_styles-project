@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是解释'为什么真实应用里很少手写 SQL'小节里的一句话, 作者举例说明同一张表上会有很多细节各异的查询, 用'这一条……那一条……又一条……'的列举方式铺陈变体."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README.md"
+
+good_origin = "generated"

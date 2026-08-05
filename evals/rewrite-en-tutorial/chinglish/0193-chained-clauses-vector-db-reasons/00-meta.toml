@@ -1,0 +1,5 @@
+type = "passage"
+context = "第 5 节连续三段解释为什么需要向量库(速度、内存、查询能力), 中文用逗号串联多个独立分句(流水句), 英文逐字照搬, 出现主语跳转的逗号粘连句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/09-embeddings-hello-world/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/09-embeddings-hello-world/README.md"
+good_origin = "generated"

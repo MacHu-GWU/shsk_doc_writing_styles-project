@@ -1,0 +1,6 @@
+type = "sentence"
+context = "具体体现在六个层面, 第一条是'有理论': 开篇先校准认知, 讲清系统设计有三个抽象层次."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/README.md"
+
+good_origin = "generated"

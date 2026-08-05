@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是练习 2 的操作步骤, 指导读者在分支切换器里新建 dev-1 分支."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/03-working-with-git-branch/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/03-working-with-git-branch/README.md"
+literal_origin = "archived"
+good_origin = "generated"

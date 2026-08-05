@@ -1,0 +1,1 @@
+If you ever see a SQLAlchemy plugin for some database that's a random third-party repo that hasn't been touched in years, you should evaluate carefully — SQLAlchemy itself is fine; the question mark is on the **specific plugin's** liveness.

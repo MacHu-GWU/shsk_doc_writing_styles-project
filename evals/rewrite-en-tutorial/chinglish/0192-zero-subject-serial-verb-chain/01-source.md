@@ -1,0 +1,1 @@
+学完你能独立创建并配置自己的 repository, 在浏览器里编辑文件并提交改动, 用 branch 开辟平行分支安全地实验, 再用 Pull Request 把成果合并回 main; 也能分清 public 与 private, 邀请 collaborator 一起协作, 用 access token 让程序代表你操作, 把整套流程搬到本地的 GitHub Desktop, 并认清每个仓库都属于某个 owner, 知道该去 organization 里找别人分享给你的东西. 这是真实团队每天都在走的工作流, 掌握了它, 你就具备了参与现代协作项目的基本功. 课程定位是 basic 入门, 深度刚好覆盖 "能自己独立走完一整轮".

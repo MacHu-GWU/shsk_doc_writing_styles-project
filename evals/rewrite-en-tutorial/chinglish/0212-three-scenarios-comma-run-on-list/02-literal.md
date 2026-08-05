@@ -1,0 +1,3 @@
+- Large company campus recruiting. Standardized screening, win over the ATS and Recruiter
+- Small and mid-size direct apply. Competing with experienced candidates, win over the Hiring Manager
+- Experienced hire. Solve a concrete problem, show relevant results

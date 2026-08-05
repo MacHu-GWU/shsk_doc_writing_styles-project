@@ -1,0 +1,5 @@
+type = "sentence"
+context = "应届生没有正式工作经验时, 怎么用 Projects 板块加 Action + Technical Detail + Impact 撑起一份够格的简历."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/README.md"
+good_origin = "generated"

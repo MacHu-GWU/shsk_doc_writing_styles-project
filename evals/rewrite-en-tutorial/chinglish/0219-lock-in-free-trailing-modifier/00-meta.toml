@@ -1,0 +1,6 @@
+type = "diagram"
+context = "mermaid 图中终点节点用逗号并列两个短语(企业级跨 agent 迁移能力, 不被锁定), 英文直接照搬逗号叠加修饰语的结构."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/04-building-layers-two-and-three/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/04-building-layers-two-and-three/README.md"
+
+good_origin = "generated"

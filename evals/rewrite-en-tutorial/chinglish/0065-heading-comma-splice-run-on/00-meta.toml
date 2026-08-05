@@ -1,0 +1,6 @@
+type = "sentence"
+context = "中文标题用逗号连接两个独立分句(流水句结构, 无连接词), 英文标题原样保留了逗号连接, 形成英语中不规范的 run-on / comma splice."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/01-call-ai-api/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/01-call-ai-api/README.md"
+
+good_origin = "generated"

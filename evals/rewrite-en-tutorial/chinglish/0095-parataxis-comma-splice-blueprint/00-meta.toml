@@ -1,0 +1,6 @@
+type = "sentence"
+context = "用逗号并列两个独立分句(语言库是图纸, CLI 是施工队), 没有连接词, 是中文意合句式."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/02-install-and-verify/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/02-install-and-verify/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "中文标题用几个动词短语并列, 中文不要求并列成分同构; 英文字面翻译保留了这种混排, 把动名词短语和一个完整独立分句硬凑在同一个标题里, 破坏了英文标题的并列结构."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/02-building-the-first-expert/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/02-building-the-first-expert/README.md"
+
+good_origin = "generated"

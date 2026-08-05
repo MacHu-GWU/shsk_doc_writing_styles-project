@@ -1,0 +1,1 @@
+Two lines of defense. First, step 1 of `add_expense` requires the shares to sum to the total, so an entry that doesn't balance never even gets written. Second, every amount uses `Decimal` from start to finish, so floating point error never creeps in.

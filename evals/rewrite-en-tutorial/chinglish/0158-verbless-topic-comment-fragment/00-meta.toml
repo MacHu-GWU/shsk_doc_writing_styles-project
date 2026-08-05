@@ -1,0 +1,6 @@
+type = "sentence"
+context = "描述同一套追问被用在不同尺度上, 中文允许主题-评论式的无谓语短句成句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/06-the-mental-model-recursive-decomposition/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/06-the-mental-model-recursive-decomposition/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是第 10 节的标题, 用来提醒读者 \"没有邀请就没有协作\" 这条底线需要时刻留意."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/07-add-collaborator/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/07-add-collaborator/README.md"
+literal_origin = "archived"
+good_origin = "generated"

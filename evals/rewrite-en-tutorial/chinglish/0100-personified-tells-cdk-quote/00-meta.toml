@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'cdk.json'文件最关键的一行是顶部那个'app'字段, 它把这一行拟人化地表述为 CDK 被'告诉'去做某事, 随后用引号给出一句指令式的话."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/05-cdk-entry-and-source/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/05-cdk-entry-and-source/README.md"
+
+good_origin = "generated"

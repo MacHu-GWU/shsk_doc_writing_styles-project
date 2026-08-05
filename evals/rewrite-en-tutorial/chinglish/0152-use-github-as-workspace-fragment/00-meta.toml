@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是全文结尾段落中的一句, 紧接在\"这恰恰是关键\"之后, 作者在收束全文, 强调这门课的定位边界."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/README.md"
+literal_origin = "archived"
+good_origin = "generated"

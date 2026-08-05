@@ -1,0 +1,6 @@
+type = "sentence"
+context = "描述十二份几乎同构的迁移文件, 手写手改容易出错, 中文没有单复数标记, 导致译文主谓不一致."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/04-building-layers-two-and-three/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/04-building-layers-two-and-three/README.md"
+
+good_origin = "generated"

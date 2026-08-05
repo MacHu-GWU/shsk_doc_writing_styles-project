@@ -1,0 +1,5 @@
+type = "sentence"
+context = "'埋下'在中文里是'埋下伏笔'的省略说法, 指为后文做铺垫; 直译成英文的'plant'却丢了宾语(种子/伏笔), 读起来语义悬空."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/01-why-this-repo-matters/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/01-why-this-repo-matters/README.md"
+good_origin = "generated"

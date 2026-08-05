@@ -1,0 +1,6 @@
+type = "passage"
+context = "连续四段分别描述投递不同岗位时'保留...保留...保留...'该留什么, 中文是无连接词的动词并列句, 每段都重复这个结构."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/05-resume-matrix/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/05-resume-matrix/README.md"
+
+good_origin = "generated"

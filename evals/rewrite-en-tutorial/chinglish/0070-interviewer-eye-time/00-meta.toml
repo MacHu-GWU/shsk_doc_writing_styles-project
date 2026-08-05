@@ -1,0 +1,6 @@
+type = "sentence"
+context = "描述 bullet 把 case 文档里分散的答案压缩后, 放进招聘官'最少的视线时间'里."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/09-write-bullets/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/09-write-bullets/README.md"
+
+good_origin = "generated"

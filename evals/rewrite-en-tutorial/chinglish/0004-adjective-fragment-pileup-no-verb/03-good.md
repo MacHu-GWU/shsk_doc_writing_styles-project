@@ -1,0 +1,1 @@
+The first layer is maintaining the underlying material: low frequency, high depth. Write it once and it serves you for a long time. The second layer is tailoring that material to a specific role: high frequency, shallow depth, just a few minutes each time.

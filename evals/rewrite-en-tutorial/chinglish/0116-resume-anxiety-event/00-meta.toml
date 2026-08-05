@@ -1,0 +1,5 @@
+type = "sentence"
+context = "飞轮转起来之后, 简历就不再是焦虑事件, 而是工程师终身职业管理的副产品."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/README.md"
+good_origin = "generated"

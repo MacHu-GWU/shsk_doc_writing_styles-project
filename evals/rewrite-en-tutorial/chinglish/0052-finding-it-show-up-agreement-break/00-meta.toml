@@ -1,0 +1,6 @@
+type = "sentence"
+context = "中文用'发现...出现, 才说明'这种连动结构, 直译成英文时动名词与裸动词形式没有对齐."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/06-the-mental-model-recursive-decomposition/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/06-the-mental-model-recursive-decomposition/README.md"
+
+good_origin = "generated"

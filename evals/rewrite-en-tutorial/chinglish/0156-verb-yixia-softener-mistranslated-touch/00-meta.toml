@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这句描述入口脚本唯一做的事, 其中'触发一下要部署的 Stack'用了'动词+一下'的轻量化说法, 直译成了字面意义完全不同的'touch'."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/05-cdk-entry-and-source/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/05-cdk-entry-and-source/README.md"
+
+good_origin = "generated"

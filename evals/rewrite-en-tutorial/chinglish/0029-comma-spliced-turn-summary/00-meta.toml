@@ -1,0 +1,6 @@
+type = "sentence"
+context = "总结两轮循环时, 中文用逗号把多个短分句串成一句流水句('你执行, 送回'), 英文逐字保留逗号连接而不是拆成独立句子或用连接词, 形成 comma splice."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/13-tool-use-raw/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/13-tool-use-raw/README.md"
+
+good_origin = "generated"

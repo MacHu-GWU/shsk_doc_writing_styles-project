@@ -1,0 +1,5 @@
+type = "sentence"
+context = "作者用'横向'和'纵向'来对比一般技能和 coding agent 这门元技能, 中文里'纵向凌驾于所有领域之上'意在强调这门技能贯穿并凌驾一切领域."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/01-why-this-repo-matters/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/01-why-this-repo-matters/README.md"
+good_origin = "generated"

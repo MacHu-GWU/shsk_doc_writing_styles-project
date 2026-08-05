@@ -1,0 +1,1 @@
+The goal here is modest, and deliberately so. By the end, you should *feel* what a relational database is (tables, rows, columns, primary keys, simple queries) without drowning in the ecosystem around it.

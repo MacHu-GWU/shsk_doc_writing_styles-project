@@ -1,0 +1,6 @@
+type = "passage"
+context = "13 节导师寄语中, 作者用 '文件思维' 与 '项目思维' 两个自造概念做对比, 分别用一句长句定义各自的含义."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/01-create-repo/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/01-create-repo/README.md"
+literal_origin = "archived"
+good_origin = "generated"

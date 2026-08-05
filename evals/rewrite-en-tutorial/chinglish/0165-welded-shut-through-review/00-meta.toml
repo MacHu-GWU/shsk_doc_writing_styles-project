@@ -1,0 +1,6 @@
+type = "sentence"
+context = "学生讲解状态机非法转移防护的第一层防护, 说明所有改状态的路径都必须走 transition_ticket, 用'把这条焊死'强调靠评审和封装把这条规则钉死."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/14-support-ticketing/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/14-support-ticketing/README.md"
+
+good_origin = "generated"

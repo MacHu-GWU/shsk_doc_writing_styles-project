@@ -1,0 +1,2 @@
+- **`tools=[...]` is a capability list you give the model**, it is a JSON Schema array. You do not automatically get "the calling mechanism," you are just telling the model "you can request these functions."
+- The `tool_calls` the model returns is a **request**, not an **execution**. It tells you "please run get_weather(city='Tokyo') for me," you run it, get the result, send it back.

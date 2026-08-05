@@ -1,0 +1,6 @@
+type = "sentence"
+context = "针对'文件是否必须放在这个路径'的问题作出回答, 中文用'答案是, 完全行'这种逗号停顿结构给出判断."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/03-stack-and-app/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/03-stack-and-app/README.md"
+
+good_origin = "generated"

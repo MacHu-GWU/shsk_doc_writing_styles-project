@@ -1,0 +1,6 @@
+type = "sentence"
+context = "学生列举'两道防线'时用中文的'一是...二是...'作为并列枚举词, 而非自然英文的 First/Second 或分号列表."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/09-shared-expense-splitter/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/09-shared-expense-splitter/README.md"
+
+good_origin = "generated"

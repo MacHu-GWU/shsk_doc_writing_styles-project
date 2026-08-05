@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是一篇 GitHub 入门教程, 作者在介绍 Repository 页面的文件内容预览区域时, 顺带夸了一句 GitHub 的自动渲染功能."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/02-edit-files/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/02-edit-files/README.md"
+literal_origin = "archived"
+good_origin = "generated"

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "第 9 节讲完成创建后, 描述点击 Create repository 按钮之后页面发生的变化."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/01-create-repo/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/01-create-repo/README.md"
+literal_origin = "archived"
+good_origin = "generated"

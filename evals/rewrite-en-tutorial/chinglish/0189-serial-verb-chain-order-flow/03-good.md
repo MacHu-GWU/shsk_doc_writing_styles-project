@@ -1,0 +1,1 @@
+Here's the core flow for placing an order: the customer submits a request, and the system checks product availability and stock before deducting it. It then creates the Order and OrderItem records and calls the payment service. Once payment succeeds, it marks the order as paid and kicks off an asynchronous notification to fulfillment.

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是课程 README 开篇介绍 GitHub 定位的第一段, 作者在解释 GitHub 能管理哪些类型的内容."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README-ORIGINAL-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README-ORIGINAL.md"
+literal_origin = "archived"
+good_origin = "generated"

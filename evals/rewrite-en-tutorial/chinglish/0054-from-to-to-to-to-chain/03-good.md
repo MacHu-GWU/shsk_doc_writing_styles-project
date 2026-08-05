@@ -1,0 +1,1 @@
+A resume that's actually been polished takes real work: read the JD, pick your material, rewrite the bullet phrasing, reorder things, get the layout right. Do all that properly and it can easily take an hour or two.

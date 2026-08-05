@@ -1,0 +1,6 @@
+type = "sentence"
+context = "教程正在解释个人账号下的仓库列表有一个边界: 它只列自己名下的仓库, 作者刚强调完这一点, 紧接着用一句话把两类不属于这里的东西点出来."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/10-understand-github-organization/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/10-understand-github-organization/README.md"
+literal_origin = "archived"
+good_origin = "generated"

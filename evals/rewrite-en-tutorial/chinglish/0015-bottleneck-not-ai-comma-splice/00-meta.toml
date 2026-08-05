@@ -1,0 +1,5 @@
+type = "sentence"
+context = "说明 AI 接管新数据库的门槛几乎为零, 关键不在于 AI 本身, 而在于你是否愿意花一小时把探索方法写成 CLI 加 Skill."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/11-Snowflake-AI-Agent/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/11-Snowflake-AI-Agent/README.md"
+good_origin = "generated"

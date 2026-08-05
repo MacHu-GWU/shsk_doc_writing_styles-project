@@ -1,0 +1,6 @@
+type = "sentence"
+context = "越往高级走, 系统设计的权重就越大, 是那种短期拉不开差距, 长期却决定天花板的能力."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/README.md"
+
+good_origin = "generated"

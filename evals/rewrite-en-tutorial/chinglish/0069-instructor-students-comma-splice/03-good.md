@@ -1,0 +1,1 @@
+An instructor stands up front explaining why each component was picked, while students scribble notes as fast as they can, as if memorizing every one of these "building blocks" is enough to snap them back together in the next interview.

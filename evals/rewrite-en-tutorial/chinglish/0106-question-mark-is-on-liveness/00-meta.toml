@@ -1,0 +1,6 @@
+type = "sentence"
+context = "作者说某个数据库的第三方 SQLAlchemy 插件如果长期没更新, 问题出在那个插件本身, 不是 SQLAlchemy 的问题. 这是'是...的问题'句式被逐字搬进英文, 生成了不存在的英文搭配."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/09-SQLAchemy-Core-and-ORM/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/09-SQLAchemy-Core-and-ORM/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,3 @@
+- Campus recruiting at large companies runs through standardized screening, so you need to win over the ATS and the recruiter
+- Direct applications at small and midsize companies put you up against experienced candidates, so you need to win over the hiring manager
+- Experienced hires need to solve a concrete problem and show results that prove it

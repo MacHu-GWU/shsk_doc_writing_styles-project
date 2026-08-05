@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这句话总结 cdk.json 的作用, 同样用'告诉X『...』'的拟人化引语句式, 把配置文件说成在对 CDK CLI 说话."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/05-cdk-entry-and-source/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/05-cdk-entry-and-source/README.md"
+
+good_origin = "generated"

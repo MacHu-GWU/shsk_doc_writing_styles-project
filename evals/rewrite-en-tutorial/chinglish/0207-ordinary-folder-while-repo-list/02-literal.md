@@ -1,0 +1,4 @@
+- An ordinary folder can only store files, while a Repo stores files and also records the history of every change.
+- An ordinary folder is usually used by one person, while a Repo is built for multiple people to collaborate.
+- An ordinary folder is hard to recover once you make a mistake, while a Repo can travel back in time to any earlier version whenever you want.
+- An ordinary folder has no idea who changed what, while a Repo keeps a clear record of every single change.

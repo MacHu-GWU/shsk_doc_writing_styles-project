@@ -1,0 +1,5 @@
+type = "bullet-list"
+context = "小结部分用一个有序列表回顾整篇文章做了什么操作, 其中把 INSERT、UPDATE、DELETE 这些 SQL 关键字直接当动词用."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/07-CRUD-With-Snowflake-CLI/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/07-CRUD-With-Snowflake-CLI/README.md"
+good_origin = "generated"

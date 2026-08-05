@@ -1,0 +1,3 @@
+- Permissions can be narrowed. When you generate one, you can grant only "read and write repositories," not delete repos, not manage organizations, not change your account. Even if it leaks, whoever holds it cannot do much. It is just a "key card that opens one specific room," not a master key.
+- It can be revoked individually at any time, with no side effects. You can issue several tokens for different programs at once, and if one causes trouble you delete just that one; the rest of your tokens and your password are completely unharmed.
+- It can be set to expire. Have it automatically stop working after 30 or 90 days, so even if you forget to revoke it manually, it turns into a useless string on its own once it expires.

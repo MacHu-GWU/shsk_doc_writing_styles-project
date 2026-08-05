@@ -1,0 +1,4 @@
+- **Design a mini project that makes you stronger every so often** (instead of waiting passively for the company to hand you work)
+- **Turn every finished project into a traceable case study** (instead of finishing it and forgetting about it)
+- **Use every piece of feedback to shape your next mini project** (instead of just absorbing the criticism passively)
+- **Once a year, look back at your GitHub repo and watch your arsenal grow thicker and your persona grow deeper** (instead of thinking, "wow, time flies, I'm another year older")

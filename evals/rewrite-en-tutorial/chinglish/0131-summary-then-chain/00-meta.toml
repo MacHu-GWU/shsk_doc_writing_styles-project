@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是全文结尾\"小结\"部分的核心句, 作者用同一套八阶段框架回顾整门课, 呼应开篇的总览句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/README.md"
+literal_origin = "archived"
+good_origin = "generated"

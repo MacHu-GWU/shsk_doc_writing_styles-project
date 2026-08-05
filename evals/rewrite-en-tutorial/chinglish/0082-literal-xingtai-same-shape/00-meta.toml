@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'同形态'被逐字译成'same shape as', 而地道英文一般会说'the same setup/profile as production'."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README.md"
+
+good_origin = "generated"

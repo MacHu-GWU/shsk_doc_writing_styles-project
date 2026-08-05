@@ -1,0 +1,6 @@
+type = "sentence"
+context = "第八节总结前四问时, 中文用逗号连接两个独立分句, 直译后英文缺少连接词, 形成逗号拼接句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/05-answering-follow-up-questions/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/05-answering-follow-up-questions/README.md"
+
+good_origin = "generated"

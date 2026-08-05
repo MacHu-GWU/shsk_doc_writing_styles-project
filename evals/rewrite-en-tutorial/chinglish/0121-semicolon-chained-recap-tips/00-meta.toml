@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是第 9 节 \"回顾\" 里的一条要点, 把两条不同场景的建议 (操作前的习惯, 和找不到文件时的排查思路) 压缩进一条列表项."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/03-working-with-git-branch/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/03-working-with-git-branch/README.md"
+literal_origin = "archived"
+good_origin = "generated"

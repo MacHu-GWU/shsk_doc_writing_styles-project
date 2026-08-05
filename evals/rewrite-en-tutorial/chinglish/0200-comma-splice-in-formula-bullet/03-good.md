@@ -1,0 +1,3 @@
+- `a · b` is the dot product of the two vectors (multiply matching elements, then add them up)
+- `|a|` is the vector's length (square each element, sum them, then take the square root)
+- The result ranges from -1 to 1. The closer to 1, the more similar the vectors are.

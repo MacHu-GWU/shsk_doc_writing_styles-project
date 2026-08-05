@@ -1,0 +1,5 @@
+type = "sentence"
+context = "作者提醒读者不要把 main 与线上环境划等号, 因为 production branch 是可配置的, 真正对应线上的是'被指定为 production 的那个 branch'."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/04-deployment-environment-and-git-branch/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/04-deployment-environment-and-git-branch/README.md"
+good_origin = "generated"

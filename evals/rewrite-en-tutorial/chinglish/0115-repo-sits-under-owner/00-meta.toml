@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是课程收尾部分对第四块内容(仓库归属)的一句总结, 讲每个 repo 都有一个所有者."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/11-recap-and-next-steps/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/11-recap-and-next-steps/README.md"
+literal_origin = "archived"
+good_origin = "generated"

@@ -1,0 +1,5 @@
+type = "sentence"
+context = "介绍 TRANSIENT TABLE 的限制, 中文用逗号串联三个并列分句(无 Fail-safe、Time Travel 保留 1 天、但够用、且更便宜), 不加连词."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/03-Use-Snowflake-On-A-Budget/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/03-Use-Snowflake-On-A-Budget/README.md"
+good_origin = "generated"

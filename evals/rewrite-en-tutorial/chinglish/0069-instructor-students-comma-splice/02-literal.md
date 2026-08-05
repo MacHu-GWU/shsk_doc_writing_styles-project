@@ -1,0 +1,1 @@
+An instructor walks through why each component was chosen, students scribble notes furiously, as if memorizing every "building block" is all it takes to reassemble the same picture in the next interview.

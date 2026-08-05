@@ -1,0 +1,6 @@
+type = "sentence"
+context = "中文用逗号并列三个短句, 不需要连词衔接; 直译成英文后变成没有连词的逗号粘连句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/README.md"
+
+good_origin = "generated"

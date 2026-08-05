@@ -1,0 +1,6 @@
+type = "bullet-list"
+context = "\"一个完整的工作流程\"一节用五个短语标签(起点/开分支/在分支上连续提交/合并回主线/收尾)串起 Commit-Branch-Merge 的完整故事, 每条以两字/四字动词短语开头."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/04-merge-branch/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/04-merge-branch/README.md"
+literal_origin = "archived"
+good_origin = "generated"

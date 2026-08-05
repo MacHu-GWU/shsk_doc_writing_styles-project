@@ -1,0 +1,5 @@
+type = "sentence"
+context = "中文用'通过...来'引导一串并列动词短语来说明如何吸收这项技能, 动词短语内部形式并不统一(运行它/读它/能为...辩护/最后...留下), 英文逐字保留了这种混合并列, 导致 by 后的列表在动名词和主谓短语之间来回切换."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/README.md"
+good_origin = "generated"

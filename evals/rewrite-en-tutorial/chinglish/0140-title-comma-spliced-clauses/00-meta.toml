@@ -1,0 +1,6 @@
+type = "sentence"
+context = "文档标题用逗号连接三个独立短语/分句, 是中文流水句(topic, comment, comment)的直译."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/13-final-synthesis/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/13-final-synthesis/README.md"
+
+good_origin = "generated"

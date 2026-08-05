@@ -1,0 +1,1 @@
+The core flow for e-commerce order placement: the user submits an order request, the system validates the product and checks inventory, deducts inventory, creates the Order and OrderItem records, calls the payment service, and once payment succeeds, updates the order status to paid, then asynchronously notifies fulfillment.

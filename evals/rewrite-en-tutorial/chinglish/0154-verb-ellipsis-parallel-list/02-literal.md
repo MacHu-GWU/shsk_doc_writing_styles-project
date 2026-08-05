@@ -1,0 +1,1 @@
+Python 3.12, Node 24, AWS CLI 2.34.24, CDK CLI 2.1119.0.

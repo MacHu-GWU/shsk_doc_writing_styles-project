@@ -1,0 +1,5 @@
+type = "sentence"
+context = "1 到 5 年经验的人, 怎么从'我做了什么'切到'我做成了什么', Work Experience 升上去, Education 落下来."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/README.md"
+good_origin = "generated"

@@ -1,0 +1,1 @@
+- [ ] **Can explain the rule**: You can state the default branch to environment rule, and you know the production branch is configurable.

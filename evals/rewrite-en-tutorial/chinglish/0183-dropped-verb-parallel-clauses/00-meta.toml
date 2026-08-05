@@ -1,0 +1,6 @@
+type = "paragraph"
+context = "中文用'模板进 git, 真值不进 git'和'真值留在本地保证不泄密'这类省略谓语的对偶结构(topic-comment 式并列), 英文逐字保留省略, 产出缺谓语的残句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/01-call-ai-api/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/01-call-ai-api/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,1 @@
+All it takes is opening the master resume and cutting whatever doesn't fit: the Summary variants that don't match this role, the Skills lines you don't need, and the experience entries or individual bullets that don't help this direction.

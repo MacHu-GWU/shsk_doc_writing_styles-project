@@ -1,0 +1,6 @@
+type = "sentence"
+context = "作者解释 ORM 返回的是有方法有属性的 Python 对象而不是 row tuple, 用'体感差别'形容这种感受上的不同. '体感'被逐字译成 experiential, 造出英文里不存在的搭配."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/09-SQLAchemy-Core-and-ORM/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/09-SQLAchemy-Core-and-ORM/README.md"
+
+good_origin = "generated"

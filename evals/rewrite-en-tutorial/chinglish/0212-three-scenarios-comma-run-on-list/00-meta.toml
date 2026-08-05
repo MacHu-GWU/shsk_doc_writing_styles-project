@@ -1,0 +1,5 @@
+type = "bullet-list"
+context = "每条列表项在中文里是逗号串联的流水短句, 例如'大公司校招, 标准化筛选, 打动 ATS 和 Recruiter'. 英文直译把第一个逗号换成句号, 后半部分变成无主语的片段, 三条列表项重复同样的断句方式."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/01-hiring/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/01-hiring/README.md"
+good_origin = "generated"

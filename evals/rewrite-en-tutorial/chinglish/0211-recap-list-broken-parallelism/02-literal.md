@@ -1,0 +1,4 @@
+- Read the Repository page: what the file list area and the file content preview area each are.
+- Learned to open a file two ways: click the file name directly, or use the File Explorer to search and browse.
+- Mastered the three-step edit: enter edit mode, change the content, and save with Commit Changes.
+- Understood why this lesson does not worry about Branches yet, and why you always choose to commit directly to main when saving.

@@ -1,0 +1,2 @@
+2. INSERT 4 行 → SELECT 全表 / WHERE 过滤 / GROUP BY 聚合
+3. UPDATE 一行 → DELETE 两行

@@ -1,0 +1,5 @@
+- 起点: main 分支上只有 Commit 1, 内容是 "项目初始文件".
+- 开分支: 从 Commit 1 分出一个 feature-search 分支, 用来开发搜索功能.
+- 在分支上连续提交: 在 feature-search 上依次做 Commit 2 "添加搜索框", Commit 3 "实现搜索逻辑", Commit 4 "完善搜索功能". 这段时间里, main 还停在 Commit 1 没动.
+- 合并回主线: 功能开发完成后, 把 feature-search 合并回 main. 这会产生一个 Merge commit, 它包含了 Commit 2, 3, 4 的所有改动. 现在 main 也有了完整的搜索功能.
+- 收尾: feature-search 的使命已经完成, 可以删除了.

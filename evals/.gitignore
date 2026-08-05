@@ -1,0 +1,7 @@
+# Only sources and hand-approved gold belong in this tree.
+# Anything the pipeline generates stays out of version control.
+tmp/
+*-en.md
+*-en-draft.md
+*-glossary.md
+*-outline.md

@@ -1,0 +1,1 @@
+It is the vehicle for code review (teammates can leave comments in the PR to point out problems), a window for knowledge sharing (you learn a lot by reviewing other people's PRs), and a gate for quality assurance (many teams require a PR to be reviewed before it can be merged).

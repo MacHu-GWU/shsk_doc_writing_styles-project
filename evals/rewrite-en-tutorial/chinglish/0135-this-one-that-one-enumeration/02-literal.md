@@ -1,0 +1,1 @@
+Imagine your application has a hundred queries against the same `users` table. Each one differs by tiny variations: this one filters by age, that one filters by name, this other one filters by both age **and** city, and adds an `ORDER BY` only when the user clicked a column header in the UI.

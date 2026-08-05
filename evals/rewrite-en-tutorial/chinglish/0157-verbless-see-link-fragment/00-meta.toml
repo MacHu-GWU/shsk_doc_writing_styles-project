@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'详细演示见 [link]。'是汉语常见的无主句/省略谓语句式(省略了'你可以去看'), 逐字搬进英文变成没有动词的残句, 全文重复出现三次."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/17-agent-capstone/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/17-agent-capstone/README.md"
+
+good_origin = "generated"

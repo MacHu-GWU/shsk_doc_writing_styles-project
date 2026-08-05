@@ -1,0 +1,1 @@
+[09-use-github-desktop](09-use-github-desktop/README.md): Clone a repo to your computer with GitHub Desktop, then commit, create branches, push, and merge locally without going through a PR. You end up with a local workflow that's far smoother than the browser.

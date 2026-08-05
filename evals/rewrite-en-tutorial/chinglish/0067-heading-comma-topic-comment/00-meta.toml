@@ -1,0 +1,6 @@
+type = "sentence"
+context = "小节标题用逗号把主题词和说明黏在一起, 是中文标题常见的'主题, 说明'结构."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/02-install-and-verify/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/02-install-and-verify/README.md"
+
+good_origin = "generated"

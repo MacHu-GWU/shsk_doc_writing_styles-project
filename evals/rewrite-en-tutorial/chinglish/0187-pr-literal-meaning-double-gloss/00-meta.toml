@@ -1,0 +1,6 @@
+type = "paragraph"
+context = "这是\"学习目标\"一节的铺垫段落, 作者先解释分支的价值, 再引出 Merge 和 Pull Request 两个术语, 逐层用\"字面意思\"加\"你可以理解成\"两层解释来带读者认识新词."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/04-merge-branch/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/04-merge-branch/README.md"
+literal_origin = "archived"
+good_origin = "generated"

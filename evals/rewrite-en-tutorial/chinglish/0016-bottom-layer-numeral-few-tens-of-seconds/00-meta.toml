@@ -1,0 +1,5 @@
+type = "sentence"
+context = "描述部署所需时间, 原文用'几十秒'(以十为计数单位的模糊数量)这种中文特有的数词构式."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/06-mise-cdk-tasks/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/06-mise-cdk-tasks/README.md"
+good_origin = "generated"

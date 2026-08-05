@@ -1,0 +1,6 @@
+type = "sentence"
+context = "中文用无主语并列动词短语'发现一个机制, 验证它是不是可靠, ...'列举整个流程, 英文照搬为冒号后的裸动词原形清单, 但前面主句要求的是名词化或动名词并列, 造成语法脱节."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/02-building-the-first-expert/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/02-building-the-first-expert/README.md"
+
+good_origin = "generated"

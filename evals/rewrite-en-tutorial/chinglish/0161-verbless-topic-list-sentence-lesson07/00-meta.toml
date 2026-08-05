@@ -1,0 +1,6 @@
+type = "sentence"
+context = "同一构造的第三例: API/概念名词逗号并列做开篇句, 直译后仍是无主要动词的片段句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/README.md"
+
+good_origin = "generated"

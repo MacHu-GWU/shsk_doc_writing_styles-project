@@ -1,0 +1,1 @@
+**Theory first**: it starts by resetting your mental model (Chapter 01) and laying out the three levels of abstraction in system design, correcting the most common misconception, that system design just means drawing architecture diagrams and stacking building blocks, rather than diving straight into components.

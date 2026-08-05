@@ -1,0 +1,1 @@
+Getting these two motivations straight first gives the implementation details that follow somewhere to hang — otherwise, no matter how carefully we walk through the mechanics, it's just a pile of disconnected technical moves.

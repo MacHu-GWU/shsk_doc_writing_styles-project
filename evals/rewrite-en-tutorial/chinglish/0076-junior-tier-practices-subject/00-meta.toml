@@ -1,0 +1,6 @@
+type = "sentence"
+context = "介绍系列的初级台阶(第 06-10 篇), 面向 0 到 2 年经验的读者, 练习把实体、字段、API 一一理清楚."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/01-rethinking-system-design/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/01-rethinking-system-design/README.md"
+
+good_origin = "generated"

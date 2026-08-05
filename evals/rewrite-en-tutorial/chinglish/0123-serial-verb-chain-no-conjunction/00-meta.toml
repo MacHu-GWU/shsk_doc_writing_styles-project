@@ -1,0 +1,6 @@
+type = "sentence"
+context = "一句话里连续用三个动词描述操作步骤, 中间没有连接词, 直接用逗号串联."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README.md"
+
+good_origin = "generated"

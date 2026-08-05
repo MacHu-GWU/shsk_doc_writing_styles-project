@@ -1,0 +1,6 @@
+type = "sentence"
+context = "作者在第 5 节开篇解释 Repository 是什么, 先说它像文件夹, 接着用这句话转折, 引出后面的对比表格."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/01-create-repo/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/01-create-repo/README.md"
+literal_origin = "archived"
+good_origin = "generated"

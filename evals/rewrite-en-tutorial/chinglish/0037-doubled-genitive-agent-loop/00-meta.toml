@@ -1,0 +1,6 @@
+type = "sentence"
+context = "描述模型挂起等待执行的状态时, 中文用'A 的 B'结构把'这个挂起点'和'agent loop 的循环点'叠在一起, 英文逐字照搬导致'agent loop'重复出现."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/13-tool-use-raw/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/13-tool-use-raw/README.md"
+
+good_origin = "generated"

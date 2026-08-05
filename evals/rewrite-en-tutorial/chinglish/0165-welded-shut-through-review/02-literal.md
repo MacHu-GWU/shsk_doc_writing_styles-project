@@ -1,0 +1,1 @@
+The first is centralizing the logic: every path that changes status must call `transition_ticket`; no code anywhere is allowed to UPDATE status directly — this gets welded shut through code review and encapsulation, making the state machine the sole entry point.

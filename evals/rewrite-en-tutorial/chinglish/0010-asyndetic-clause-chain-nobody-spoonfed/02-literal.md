@@ -1,0 +1,1 @@
+nobody spoon-fed you how Claude Code works, you discovered the mechanism behind its docs yourself, verified it, turned it into an expert that keeps itself current, and the whole process can be reused as-is on any third-party tool, not just Claude Code.

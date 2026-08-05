@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这句说明面试官真正想知道的是你和 AI 之间是主动还是被动的关系, 同样用连续短句罗列而不加连接词."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/03-the-interview-story/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/03-the-interview-story/README.md"
+
+good_origin = "generated"

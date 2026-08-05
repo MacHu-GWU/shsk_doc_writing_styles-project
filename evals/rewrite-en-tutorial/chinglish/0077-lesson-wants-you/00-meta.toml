@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是导师寄语部分, 作者在解释为什么这个练习重要, 说明这一节设计的意图."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/02-edit-files/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/02-edit-files/README.md"
+literal_origin = "archived"
+good_origin = "generated"

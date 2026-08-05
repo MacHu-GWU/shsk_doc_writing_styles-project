@@ -1,0 +1,1 @@
+Every script is idempotent and **runs in any order**, none of them depend on side effects left behind by a previous one (lesson 12 and lesson 17 use persistent chroma, but both ship a `--reset` flag).

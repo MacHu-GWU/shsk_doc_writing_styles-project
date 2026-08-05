@@ -1,0 +1,6 @@
+type = "bullet-list"
+context = "汉语流水句用逗号把多个独立分句串联而不加连接词('它只看到...工具, 字符串进字符串出'), 逐字翻译后在英文里变成用逗号连接两个独立分句的 comma splice."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/17-agent-capstone/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/17-agent-capstone/README.md"
+
+good_origin = "generated"

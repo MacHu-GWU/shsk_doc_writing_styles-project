@@ -1,0 +1,6 @@
+type = "sentence"
+context = "中文用逗号并列的分句'部到别人账号里更尴尬, 直接帮别人花钱'直接搬进英文, 造成逗号粘连句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/02-install-and-verify/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/02-install-and-verify/README.md"
+
+good_origin = "generated"

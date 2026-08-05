@@ -1,0 +1,5 @@
+type = "sentence"
+context = "建表前作者说要先讲清楚 Snowflake 的对象层级概念, 这几段内容'最值得新手花两分钟搞清楚'."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/07-CRUD-With-Snowflake-CLI/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/07-CRUD-With-Snowflake-CLI/README.md"
+good_origin = "generated"

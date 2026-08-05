@@ -1,0 +1,5 @@
+type = "sentence"
+context = "小结部分估算整个练习实际花掉的 credit 有多少, 作者说整套流程烧掉的 credit 大概就是 warehouse 跑了十几次秒级查询."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/07-CRUD-With-Snowflake-CLI/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/07-CRUD-With-Snowflake-CLI/README.md"
+good_origin = "generated"

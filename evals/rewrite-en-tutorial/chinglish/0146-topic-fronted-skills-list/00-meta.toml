@@ -1,0 +1,6 @@
+type = "sentence"
+context = "同样在第 1 节概览段落末尾, 总结这一节学完后能获得的能力."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/09-use-github-desktop/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/09-use-github-desktop/README.md"
+literal_origin = "archived"
+good_origin = "generated"

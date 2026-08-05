@@ -1,0 +1,6 @@
+type = "sentence"
+context = "解释团队一旦把工作流绑死在某个 agent 的专有写法上, 所有东西都'长在'这个工具的专有格式里, 换平台就会被锁定."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/04-building-layers-two-and-three/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/04-building-layers-two-and-three/README.md"
+
+good_origin = "generated"

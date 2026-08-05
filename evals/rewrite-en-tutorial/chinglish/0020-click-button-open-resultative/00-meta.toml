@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是教程里讲分支切换器界面的段落, 作者在描述点击按钮之后能看到的效果."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/03-working-with-git-branch/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/03-working-with-git-branch/README.md"
+literal_origin = "archived"
+good_origin = "generated"

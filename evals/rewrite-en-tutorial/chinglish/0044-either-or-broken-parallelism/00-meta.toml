@@ -1,0 +1,6 @@
+type = "sentence"
+context = "描述新手在澄清阶段常犯的两类毛病, 中文用'要么是...,...,要么是...'的松散逗号结构串起三个短语."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/05-universal-problem-solving-framework/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/05-universal-problem-solving-framework/README.md"
+
+good_origin = "generated"

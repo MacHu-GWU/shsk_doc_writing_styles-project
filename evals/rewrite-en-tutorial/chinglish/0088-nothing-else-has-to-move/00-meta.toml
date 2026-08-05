@@ -1,0 +1,5 @@
+type = "sentence"
+context = "说明把这套架构搬到公司真实的 Snowflake 库时, 只需要改 skill 里硬编码的名字, 其他任何设置都不需要改动."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/11-Snowflake-AI-Agent/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/11-Snowflake-AI-Agent/README.md"
+good_origin = "generated"

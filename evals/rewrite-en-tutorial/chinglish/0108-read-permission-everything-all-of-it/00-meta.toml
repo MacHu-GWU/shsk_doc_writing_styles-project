@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是第 5 节解释 Collaborator 默认权限的两条并列要点之一, 用来说明对方能看到 repo 里的哪些东西."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/07-add-collaborator/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/07-add-collaborator/README.md"
+literal_origin = "archived"
+good_origin = "generated"

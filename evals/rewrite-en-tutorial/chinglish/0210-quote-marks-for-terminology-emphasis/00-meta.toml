@@ -1,0 +1,6 @@
+type = "bullet-list"
+context = "中文习惯用引号给术语或口语化短语加强调, 这两条列表项把'调用方式'和模型的请求原话都套上引号, 英文逐字保留引号, 读起来像刻意的讽刺引用而非普通说明."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/13-tool-use-raw/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/13-tool-use-raw/README.md"
+
+good_origin = "generated"

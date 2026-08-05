@@ -1,0 +1,1 @@
+剩下的那些, 比如 **什么是 Construct, Construct ID 和 Logical ID 是什么关系, RemovalPolicy 怎么设, Tag 怎么传递, 跨 Stack 引用是怎么变成 CloudFormation Output 和 Import 的, Environment 怎么绑定账号区域**, 都是 CDK 的 "公开知识", 官方文档里写得清清楚楚, 你随便问任何一个 AI 它都能解释明白.

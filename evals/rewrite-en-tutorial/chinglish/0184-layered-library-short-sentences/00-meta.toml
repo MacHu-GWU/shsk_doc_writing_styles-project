@@ -1,0 +1,6 @@
+type = "paragraph"
+context = "这是解释为什么这门'学 SQL'的课会用到 SQLAlchemy 的小节里的一段, 作者用'最底层……再往上一层……最顶层……'的排比短句描述 SQLAlchemy 的分层结构."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README.md"
+
+good_origin = "generated"

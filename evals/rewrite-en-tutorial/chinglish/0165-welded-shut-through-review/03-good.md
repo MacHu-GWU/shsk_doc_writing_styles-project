@@ -1,0 +1,1 @@
+The first layer is centralizing the logic. Every path that changes status has to go through `transition_ticket`, and no code anywhere is allowed to run `UPDATE status` directly. Code review and encapsulation weld that rule shut, so the state machine stays the only entry point.

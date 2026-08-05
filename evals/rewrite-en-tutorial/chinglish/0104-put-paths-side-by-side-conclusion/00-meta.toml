@@ -1,0 +1,6 @@
+type = "sentence"
+context = "作者在对比\"上班\"和\"开源\"这两条路之后, 引出下面的结论式小结."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/11-recap-and-next-steps/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/11-recap-and-next-steps/README.md"
+literal_origin = "archived"
+good_origin = "generated"

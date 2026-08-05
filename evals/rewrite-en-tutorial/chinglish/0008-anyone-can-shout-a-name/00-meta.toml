@@ -1,0 +1,6 @@
+type = "sentence"
+context = "第 7 节用大学发资料的类比解释身份与授权的区别, 作者刚论证完 username 谁都能冒充, 这句是对该论点的收束总结."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/08-create-access-token/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/08-create-access-token/README.md"
+literal_origin = "archived"
+good_origin = "generated"

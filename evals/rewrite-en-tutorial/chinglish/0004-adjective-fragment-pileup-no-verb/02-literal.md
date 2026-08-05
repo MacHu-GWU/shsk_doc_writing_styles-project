@@ -1,0 +1,1 @@
+The first layer is maintaining the underlying material, low frequency, high depth, written once and reused for a long time. The second layer is deriving for a specific role, high frequency, shallow depth, a few minutes each time.

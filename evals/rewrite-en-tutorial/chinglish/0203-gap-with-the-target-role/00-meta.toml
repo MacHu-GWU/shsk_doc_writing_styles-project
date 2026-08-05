@@ -1,0 +1,5 @@
+type = "bullet-list"
+context = "表格第一行, 把'诊断你跟目标岗位的 gap'这个卡点对应到 `qualify-gap-analyze` 这个 skill."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/README.md"
+good_origin = "generated"

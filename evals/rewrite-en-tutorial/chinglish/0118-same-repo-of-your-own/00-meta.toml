@@ -1,0 +1,6 @@
+type = "sentence"
+context = "作者在解释这门课的 mini task 之间是累加关系, 提醒读者必须按顺序阅读而不能跳读."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README.md"
+literal_origin = "archived"
+good_origin = "generated"

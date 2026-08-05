@@ -1,0 +1,1 @@
+The first experience is a summer 2025 healthcare project, where at Cedar Ridge Women's Health he built MaternaPulse, an internal natural-language BI Agent for the maternity ward built on AWS Bedrock AgentCore.

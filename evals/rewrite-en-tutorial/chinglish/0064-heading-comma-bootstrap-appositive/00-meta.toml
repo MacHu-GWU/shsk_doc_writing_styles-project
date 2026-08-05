@@ -1,0 +1,6 @@
+type = "sentence"
+context = "同样的标题逗号结构在第 6 讲再次出现, 用逗号代替冒号或破折号来引出说明性短语."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/02-install-and-verify/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/02-install-and-verify/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,5 @@
+type = "sentence"
+context = "中文'不是...而是...'的对比结构本身不需要重复主谓语. 英文直译成两个独立小句时省略了主语和谓语, 变成没有动词的片段句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/01-hiring/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/01-hiring/README.md"
+good_origin = "generated"

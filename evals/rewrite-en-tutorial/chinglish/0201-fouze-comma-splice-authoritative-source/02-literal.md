@@ -1,0 +1,1 @@
+- **For eventual consistency, decide who's authoritative up front.** Two replicas will be briefly inconsistent; when they reconcile, it must be clear in advance which one is treated as ground truth (whose action counts as fact), otherwise reconciliation can resolve in the wrong direction. (See `examples/08`, where the edge device's log is authoritative.)

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'剩下的那些, 比如 ...(一长串并列问题)..., 都是'这种主题优先句式, 把一大段并列内容全部堆在主语位置, 谓语被推到句子很后面才出现."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README.md"
+
+good_origin = "generated"

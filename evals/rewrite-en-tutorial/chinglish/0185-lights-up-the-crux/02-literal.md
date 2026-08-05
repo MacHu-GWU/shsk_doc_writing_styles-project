@@ -1,0 +1,1 @@
+This single sentence lights up nearly the entire first crux of this problem: unifying multiple channels. Four entry points, one kind of ticket — that's a textbook integration problem. The student needs to grab onto it.

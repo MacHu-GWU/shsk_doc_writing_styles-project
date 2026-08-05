@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是\"搬到本地\"这一块下唯一一条 mini task 的简介, 罗列这节课要在桌面工具里完成的一连串动作."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/README.md"
+literal_origin = "archived"
+good_origin = "generated"

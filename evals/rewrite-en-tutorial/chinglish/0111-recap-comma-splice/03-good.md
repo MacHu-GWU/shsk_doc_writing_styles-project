@@ -1,0 +1,1 @@
+[11-recap-and-next-steps](11-recap-and-next-steps/README.md): Pull the whole course into four storylines, then use the self-assessment table to confirm what you can do on your own. You'll also see the two roads that lead past the "solo" stage (a job and open source), and why knowing how to PR is the key to both.

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "第 15 节导师寄语, 开篇强调这一节是学习者工作方式的转折点."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/09-use-github-desktop/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/09-use-github-desktop/README.md"
+literal_origin = "archived"
+good_origin = "generated"

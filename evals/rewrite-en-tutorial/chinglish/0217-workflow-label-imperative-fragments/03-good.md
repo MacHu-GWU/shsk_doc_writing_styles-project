@@ -1,0 +1,5 @@
+- Starting point: main holds a single commit, Commit 1, with the project's initial files.
+- Branching off: you split a feature-search branch off Commit 1 and build the search feature there.
+- Committing on the branch: on feature-search you land Commit 2 "add search box", then Commit 3 "implement search logic", then Commit 4 "polish search feature". main hasn't moved this whole time. It's still sitting at Commit 1.
+- Merging back: with the feature finished, you merge feature-search into main. That gives you a Merge commit carrying every change from Commits 2, 3, and 4, and main now has the full search feature too.
+- Cleanup: feature-search has done its job, so you can delete it.

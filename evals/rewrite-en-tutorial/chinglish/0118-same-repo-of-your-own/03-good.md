@@ -1,0 +1,1 @@
+The mini tasks in this course build up as you go. The first few all happen in a single repo of your own, with each lesson stacking on the one before it. So read them in order if you can, and don't skip ahead.

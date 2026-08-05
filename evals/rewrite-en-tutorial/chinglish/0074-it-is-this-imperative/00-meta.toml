@@ -1,0 +1,6 @@
+type = "sentence"
+context = "第 12 节讲这条 \"主线\" 真正的名字不是 GitHub 也不是 Git, 作者试图给这条主线下一个更本质的定义."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/05-put-everything-on-github/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/05-put-everything-on-github/README.md"
+literal_origin = "archived"
+good_origin = "generated"

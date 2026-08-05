@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'第四块收尾, 帮你定位现在的水平并选定下一步.'这里'选定'被字面翻译为'settle', 和抽象名词'next step'搭配在英文里不成立."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/README.md"
+
+good_origin = "generated"

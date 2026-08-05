@@ -1,0 +1,1 @@
+`RunnableParallel` (multiple chains on the same input, in parallel), `.batch()` (one chain on many inputs, in parallel), the map-reduce pattern, and `async` plus `asyncio.gather` timed against the sync version.

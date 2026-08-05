@@ -1,0 +1,5 @@
+type = "sentence"
+context = "这句话说明这个 mini task 的目的: 在动手之前先弄明白要学什么、为什么值得学. '动手'在中文里可以不带宾语单独成句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/01-why-vercel/TICKET-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/01-why-vercel/TICKET.md"
+good_origin = "generated"

@@ -1,0 +1,5 @@
+- Starting point: main has only Commit 1, whose content is "initial project files".
+- Branch off: from Commit 1, split off a feature-search branch to develop the search feature.
+- Commit repeatedly on the branch: on feature-search, do Commit 2 "add search box", Commit 3 "implement search logic", Commit 4 "polish search feature" in order. During this time, main stays at Commit 1 and does not move.
+- Merge back to the main line: once the feature is done, merge feature-search back into main. This produces a Merge commit that contains all the changes from Commits 2, 3, and 4. Now main has the complete search feature too.
+- Wrap up: feature-search has served its purpose and can be deleted.

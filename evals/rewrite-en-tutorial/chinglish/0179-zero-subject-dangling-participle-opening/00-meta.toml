@@ -1,0 +1,6 @@
+type = "sentence"
+context = "介绍第二篇文章时, 中文用零主语逗号连结句式(省略了重复的'第二篇'作主语)."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/04-building-layers-two-and-three/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/04-building-layers-two-and-three/README.md"
+
+good_origin = "generated"

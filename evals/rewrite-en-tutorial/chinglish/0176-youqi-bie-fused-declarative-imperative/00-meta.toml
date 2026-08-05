@@ -1,0 +1,6 @@
+type = "sentence"
+context = "该句要求七节全程都用'旁白+对话+产出物'的格式, 尤其提醒后面几节别偷懒直接写结论段落."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/system_design_interview_example_standard-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/system_design_interview_example_standard.md"
+
+good_origin = "generated"

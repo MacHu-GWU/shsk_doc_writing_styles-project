@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是一篇讲学习方法论的教程式 README, 作者在解释 Quiz 这个环节的定位和局限时, 用一个极短的两字对仗小句收尾."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README.md"
+
+good_origin = "generated"

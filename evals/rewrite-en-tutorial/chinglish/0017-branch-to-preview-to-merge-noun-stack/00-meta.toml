@@ -1,0 +1,5 @@
+type = "sentence"
+context = "前置元数据里描述验收标准: '关掉教程当场走一遍从开 branch 改动到 Preview 验证再合并发布的完整流程.'"
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/TICKET-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/TICKET.md"
+good_origin = "generated"

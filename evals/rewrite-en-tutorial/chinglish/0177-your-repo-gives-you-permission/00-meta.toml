@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是速查小节 \"常见问题\" 里的第一个问答, 解答读者是否能编辑仓库里任意文件."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/02-edit-files/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/02-edit-files/README.md"
+literal_origin = "archived"
+good_origin = "generated"

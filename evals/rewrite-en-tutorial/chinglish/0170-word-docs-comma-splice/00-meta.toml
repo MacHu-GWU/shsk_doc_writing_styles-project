@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是第 5 节开头, 作者在描述今天大多数人用 Word 协作改文档的混乱场景, 为后面对比 GitHub 的优点做铺垫."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/05-put-everything-on-github/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/05-put-everything-on-github/README.md"
+literal_origin = "archived"
+good_origin = "generated"

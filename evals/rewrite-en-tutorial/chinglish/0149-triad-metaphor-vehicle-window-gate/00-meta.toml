@@ -1,0 +1,6 @@
+type = "sentence"
+context = "\"关键洞见\"一节里作者用排比强调 PR 不只是技术操作, 用三个比喻(载体/窗口/关口)描述它的多重角色."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/04-merge-branch/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/04-merge-branch/README.md"
+literal_origin = "archived"
+good_origin = "generated"

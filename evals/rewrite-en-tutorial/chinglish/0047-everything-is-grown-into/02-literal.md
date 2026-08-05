@@ -1,0 +1,1 @@
+If a team wires its workflows deeply into one agent's proprietary conventions, switching platforms later runs straight into vendor lock-in: they want to move but can't, because everything is grown into that one tool's private format.

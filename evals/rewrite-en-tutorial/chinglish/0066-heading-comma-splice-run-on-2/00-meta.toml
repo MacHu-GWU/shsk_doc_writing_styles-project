@@ -1,0 +1,6 @@
+type = "sentence"
+context = "与上一例相同的中文流水句标题结构, 逗号连接两个独立分句, 英文标题同样直接保留逗号, 形成 run-on 句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/01-call-ai-api/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/01-call-ai-api/README.md"
+
+good_origin = "generated"

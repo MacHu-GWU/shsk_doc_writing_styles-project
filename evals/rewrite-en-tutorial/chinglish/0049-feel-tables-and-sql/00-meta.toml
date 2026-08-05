@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是文档结尾解释这门课为什么不用 ORM 的段落, 作者重申课程的目标是让学生对表和 SQL 有直觉体会, 而不是再学一套对象框架."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README.md"
+
+good_origin = "generated"

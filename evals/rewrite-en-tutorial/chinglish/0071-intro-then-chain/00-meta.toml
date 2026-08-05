@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是整篇课程索引开篇的总览句, 作者用一句话把八个学习阶段串起来, 给读者一张全局地图."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/README.md"
+literal_origin = "archived"
+good_origin = "generated"

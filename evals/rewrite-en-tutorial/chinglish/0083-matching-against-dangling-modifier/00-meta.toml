@@ -1,0 +1,6 @@
+type = "sentence"
+context = "在\"填写 PR 信息\"一节里, 作者带读者核对页面上显示的合并方向, 用上一节讲过的 source/target 概念去对照当前页面."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/04-merge-branch/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/04-merge-branch/README.md"
+literal_origin = "archived"
+good_origin = "generated"

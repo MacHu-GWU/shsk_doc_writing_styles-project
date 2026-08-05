@@ -1,0 +1,1 @@
+Here's the one thing to anchor everything else to: when you're chatting with the ChatGPT web app, what's actually happening under the hood is one list of messages going in and one message coming back out.

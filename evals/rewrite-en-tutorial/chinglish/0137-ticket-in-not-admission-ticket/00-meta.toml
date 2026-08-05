@@ -1,0 +1,6 @@
+type = "sentence"
+context = "准确的自我定位应该是: 你拿到了一张入场券, 但比赛还没开始."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/07-where-to-go-next/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/07-where-to-go-next/README.md"
+
+good_origin = "generated"

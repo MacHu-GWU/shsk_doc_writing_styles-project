@@ -1,0 +1,1 @@
+- [ ] **Know the rule cold**: you can state the default branch-to-environment mapping, and you know the production branch is configurable.

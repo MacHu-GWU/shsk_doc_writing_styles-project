@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这句解释为什么要故意不主动交代二三层, 让对方追问, 自己再一层层接住, 才是真正证明思维方式的过程."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/03-the-interview-story/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/03-the-interview-story/README.md"
+
+good_origin = "generated"

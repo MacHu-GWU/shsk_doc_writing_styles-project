@@ -1,0 +1,1 @@
+At this point, the thread that started with a Copy page button has really run its full course: discover a mechanism, verify it's reliable, encode it as a set of rules that can be invoked repeatedly, then test whether it actually works.

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是课程总览文档开头的一句话摘要, 用来在读者点进详细内容之前先给出一个高度概括的电梯说辞."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README.md"
+literal_origin = "archived"
+good_origin = "generated"

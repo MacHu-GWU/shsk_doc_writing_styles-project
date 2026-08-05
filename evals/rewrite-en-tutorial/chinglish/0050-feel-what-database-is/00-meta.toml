@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是课程说明文档的开篇部分, 作者在介绍这门课的定位和目标, 说学完之后你应该能对关系型数据库有一种直觉上的把握."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_relational_database_basic_in_sqlite-project/README.md"
+
+good_origin = "generated"

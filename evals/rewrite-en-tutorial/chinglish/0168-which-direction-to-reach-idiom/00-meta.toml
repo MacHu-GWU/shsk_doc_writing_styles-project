@@ -1,0 +1,6 @@
+type = "sentence"
+context = "说明这一篇的第三个目标是让读者知道以后真有需要时该往哪个方向找 SQLAlchemy. '知道往哪伸手'是个中文惯用短语, 被直译成英文后动词 reach 缺少宾语, 读起来不通顺."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/09-SQLAchemy-Core-and-ORM/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/09-SQLAchemy-Core-and-ORM/README.md"
+
+good_origin = "generated"

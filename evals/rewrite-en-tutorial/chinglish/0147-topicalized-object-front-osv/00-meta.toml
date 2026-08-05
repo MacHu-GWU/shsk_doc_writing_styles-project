@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'你写的 Stack 别人能读, 能加资源, 能提 PR'把宾语'你写的Stack'提到句首当主题, 后面跟主谓结构, 是典型的话题优先(OSV)语序, 直译成英文后语序反常."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/07-wrap-up-and-next-steps/README.md"
+
+good_origin = "generated"

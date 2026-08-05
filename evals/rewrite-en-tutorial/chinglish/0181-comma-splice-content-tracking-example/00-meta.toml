@@ -1,0 +1,6 @@
+type = "paragraph"
+context = "追问五的回答举内容追踪的例子, 整段沿用中文逗号并列分句的节奏, 逐句直译后产生多处逗号拼接, 尤其'machine-readable index, something like llms.txt, most serious sources do'读起来语法断裂, 含义不清."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/05-answering-follow-up-questions/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_agent_docs_skill-project/examples/05-answering-follow-up-questions/README.md"
+
+good_origin = "generated"

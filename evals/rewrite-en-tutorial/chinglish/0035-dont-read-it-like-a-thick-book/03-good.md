@@ -1,0 +1,1 @@
+You don't have to treat this like a thick textbook you read cover to cover. Follow the approach in "How to read" below instead: take the lessons in order, doing each one's TICKET as you go. That's all it takes to learn this.

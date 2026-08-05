@@ -1,0 +1,1 @@
+This lesson walks through `RunnableParallel` (running multiple chains on the same input at once), `.batch()` (running one chain across many inputs at once), the map-reduce pattern, and timing `async` plus `asyncio.gather` against the synchronous version.

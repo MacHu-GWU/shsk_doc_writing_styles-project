@@ -1,0 +1,4 @@
+- The Repository page should make sense now: one area lists the files, the other previews a file's contents.
+- Opening a file works two ways. Click the filename directly, or search and browse with File Explorer.
+- Editing is three steps: enter edit mode, change the content, save with Commit Changes.
+- You also saw why Branch doesn't matter yet in this section. When you save, you always pick commit directly to main.

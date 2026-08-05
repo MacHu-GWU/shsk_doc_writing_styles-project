@@ -1,0 +1,5 @@
+- There's no record of what this environment actually looks like. Six months on, the developer leaves, the new hire has nothing to go by, and ends up digging through the console screen by screen.
+- Want to spin up another prod environment? Click through the setup again, and odds are it won't match dev exactly. Those small differences turn into production incidents.
+- Want to launch in a new region for another market? Click through it all again, checking every setting against the old one so nothing slips through.
+- Who changed what? You can't trace it, can't review it, can't roll it back.
+- Disaster recovery? Lose the account, and you're clicking through setup for a week.

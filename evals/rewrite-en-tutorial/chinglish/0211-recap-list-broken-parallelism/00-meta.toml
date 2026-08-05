@@ -1,0 +1,6 @@
+type = "bullet-list"
+context = "这是文末 \"回顾: 我们学到了什么\" 小节的总结清单, 四条并列复盘本节学到的内容."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/02-edit-files/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/02-edit-files/README.md"
+literal_origin = "archived"
+good_origin = "generated"

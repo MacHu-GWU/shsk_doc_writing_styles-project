@@ -1,0 +1,6 @@
+type = "paragraph"
+context = "这一段紧接开篇, 作者在列举学完这门课之后学生能做的一整套具体操作, 是全文信息密度最高的段落."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README-ORIGINAL-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/README-ORIGINAL.md"
+literal_origin = "archived"
+good_origin = "generated"

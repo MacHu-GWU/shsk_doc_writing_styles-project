@@ -1,0 +1,1 @@
+It is also a *layered* library. The bottom layer lets you send raw SQL strings. A higher layer lets you build SQL out of Python expressions. A top layer (the ORM) lets you treat rows as Python objects. We will use the bottom two layers and ignore the top one.

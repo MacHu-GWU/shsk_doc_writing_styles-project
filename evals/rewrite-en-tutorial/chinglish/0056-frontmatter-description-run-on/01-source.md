@@ -1,0 +1,1 @@
+description: "读完你能独立用 GitHub 走完整套基础工作流: 建 repo, 编辑文件并 commit, 用 branch 与 Pull Request 安全实验再合并回 main, 分清 public 与 private, 邀请 collaborator, 管理 access token, 用 GitHub Desktop 在本地工作, 并认清仓库的归属, 会在 organization 里找到别人分享给你的仓库, 把 GitHub 用作日常协作与版本管理的默认主场."

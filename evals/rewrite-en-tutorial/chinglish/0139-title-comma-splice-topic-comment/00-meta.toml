@@ -1,0 +1,6 @@
+type = "sentence"
+context = "标题用逗号把主题和评论直接拼在一起: '17 agent capstone, 把整门课拼成一个真应用雏形'."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/17-agent-capstone/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/17-agent-capstone/README.md"
+
+good_origin = "generated"

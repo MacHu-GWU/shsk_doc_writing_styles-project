@@ -1,0 +1,3 @@
+- 已完成本课的 01 到 08 节, 对 commit, branch, merge 这些概念不陌生 (你在网页上都做过).
+- 一台 Mac 或 Windows 电脑 (GitHub Desktop 两个系统都支持, 操作几乎一样).
+- 一个你自己有权限的 repo, 最好就用你在前面几节里创建的那个 public 练习 repo.

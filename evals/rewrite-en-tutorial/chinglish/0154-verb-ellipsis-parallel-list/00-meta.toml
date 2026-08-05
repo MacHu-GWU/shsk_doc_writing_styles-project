@@ -1,0 +1,6 @@
+type = "sentence"
+context = "中文靠重复省略动词'用'做平行列举(Python 用 3.12, Node 用 24...), 英文照搬省略, 变成没有动词的残缺句."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/02-install-and-verify/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_aws_cdk_basic-project/examples/02-install-and-verify/README.md"
+
+good_origin = "generated"

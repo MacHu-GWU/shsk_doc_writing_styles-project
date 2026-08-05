@@ -1,0 +1,1 @@
+If a team wires its workflow too deeply into one agent's proprietary syntax, switching platforms later means walking straight into vendor lock-in. They'll want to move and won't be able to, because everything is baked into that one tool's private format.

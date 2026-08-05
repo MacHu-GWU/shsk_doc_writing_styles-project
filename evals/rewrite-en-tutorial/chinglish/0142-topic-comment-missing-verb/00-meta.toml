@@ -1,0 +1,6 @@
+type = "sentence"
+context = "介绍 tool use 概念时, 用'全是这个机制的实例'作为总结句, 是典型的中文话题—说明结构, 前面用问号抛出话题, 后面直接给出无动词的名词性说明."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/13-tool-use-raw/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/13-tool-use-raw/README.md"
+
+good_origin = "generated"

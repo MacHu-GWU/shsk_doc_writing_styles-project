@@ -1,0 +1,1 @@
+**The barrier for the AI to take over a new database is near zero**. The bottleneck is not the AI, it is whether you are willing to spend an hour writing the CLI plus skill that says "this is how to explore."

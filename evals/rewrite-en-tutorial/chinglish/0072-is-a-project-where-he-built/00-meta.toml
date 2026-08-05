@@ -1,0 +1,6 @@
+type = "sentence"
+context = "介绍 John Doe 第一段经历时, 中文是'是...项目, 他在...做了...'的话题-说明结构."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/05-resume-matrix/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/05-resume-matrix/README.md"
+
+good_origin = "generated"

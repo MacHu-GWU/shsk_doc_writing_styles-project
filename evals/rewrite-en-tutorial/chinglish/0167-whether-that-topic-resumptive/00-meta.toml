@@ -1,0 +1,6 @@
+type = "sentence"
+context = "说明具体用哪种数据库或是否用缓存, 属于另一个层次的问题, 通常只有资历更高的候选人才需要详细回答."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/01-rethinking-system-design/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/01-rethinking-system-design/README.md"
+
+good_origin = "generated"

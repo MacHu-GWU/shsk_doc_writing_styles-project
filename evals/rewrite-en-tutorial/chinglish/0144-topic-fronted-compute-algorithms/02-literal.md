@@ -1,0 +1,1 @@
+Compute you can buy if you have the money for GPUs. Algorithms you can buy if you have the money to hire researchers. But data is the one thing a company has accumulated as private capital over decades

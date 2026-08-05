@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是练习 1 里指导读者填写 Commit 对话框的步骤说明, 依次交代三个不同界面元素该怎么处理."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/03-working-with-git-branch/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/03-working-with-git-branch/README.md"
+literal_origin = "archived"
+good_origin = "generated"

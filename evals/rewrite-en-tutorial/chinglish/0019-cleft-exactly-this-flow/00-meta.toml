@@ -1,0 +1,6 @@
+type = "sentence"
+context = "\"导师寄语\"一节总结 10 人团队协作流程后的收束句, 强调正是 PR 流程让协作有序."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/04-merge-branch/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/04-merge-branch/README.md"
+literal_origin = "archived"
+good_origin = "generated"

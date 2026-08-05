@@ -1,0 +1,1 @@
+**It has theory**: it opens by calibrating your mental model (Chapter 01), explaining that system design has three levels of abstraction, and correcting the most common misconception — that system design is just drawing architecture diagrams and stacking building blocks — instead of diving straight into components.

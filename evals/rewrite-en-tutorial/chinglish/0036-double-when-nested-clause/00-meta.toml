@@ -1,0 +1,6 @@
+type = "sentence"
+context = "解释第 12 篇某一节提到的'用 bullet-reviewer Mode A 微调'具体指的就是本节讲的 Mode A."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/09-write-bullets/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/09-write-bullets/README.md"
+
+good_origin = "generated"

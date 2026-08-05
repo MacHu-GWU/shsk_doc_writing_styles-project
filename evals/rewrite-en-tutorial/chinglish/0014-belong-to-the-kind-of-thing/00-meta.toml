@@ -1,0 +1,6 @@
+type = "sentence"
+context = "'顺带把免费额度的边界和账户独立性这两个判断想清楚, 它们都属于错了很久才会发现的那类事.''属于...那类事'被逐字译成'belong to the kind of thing', 英文中这个搭配不自然."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_vercel_basic_v1-project/examples/README.md"
+
+good_origin = "generated"

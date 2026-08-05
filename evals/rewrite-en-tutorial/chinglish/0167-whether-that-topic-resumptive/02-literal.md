@@ -1,0 +1,1 @@
+Whether you'd actually use PostgreSQL or DynamoDB, whether you'd add a cache layer or skip it, that's a different layer of the problem, and usually one only more senior candidates are expected to answer in depth.

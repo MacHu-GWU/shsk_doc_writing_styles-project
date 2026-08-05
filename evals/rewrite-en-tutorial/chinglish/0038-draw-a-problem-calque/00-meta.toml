@@ -1,0 +1,5 @@
+type = "sentence"
+context = "'抽题'是中文里'抽取一道题目'的固定搭配, 字面翻译成'draw a problem'时, 'draw'在英语里不与'problem'这样的抽象名词搭配(英语通常说 draw a card/lot, 而不是 draw a problem), 造成搭配错误但语义仍可辨认的痕迹."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/README.md"
+good_origin = "generated"

@@ -1,0 +1,5 @@
+type = "sentence"
+context = "作者说下面列出的这些名字会在后面命令里反复出现, 先在这里集中列一遍方便记住."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/07-CRUD-With-Snowflake-CLI/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_snowflake_basic-project/examples/07-CRUD-With-Snowflake-CLI/README.md"
+good_origin = "generated"

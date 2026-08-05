@@ -1,0 +1,6 @@
+type = "paragraph"
+context = "学生列出四个深挖点时沿用中文'一,二,三,四,'逐条枚举的写法, 直接译成句首基数词'One, Two, Three, Four,'而非英文习惯的 First/Second/Third/Fourth 或分点列表."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/09-shared-expense-splitter/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_system_design-project/examples/09-shared-expense-splitter/README.md"
+
+good_origin = "generated"

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这是一篇教程性质的 GitHub 技能讲解文档, 作者在第 2 节铺垫学习目标之前, 先论证一个前提事实: 网页上能做的事, 程序接口也都能做到."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/08-create-access-token/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_github_basic_v1-project/examples/08-create-access-token/README.md"
+literal_origin = "archived"
+good_origin = "generated"

@@ -1,0 +1,6 @@
+type = "sentence"
+context = "解释派生简历的做法, 用'删掉...删掉...删掉...'的连动句式列出三个动作."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/05-resume-matrix/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/05-resume-matrix/README.md"
+
+good_origin = "generated"

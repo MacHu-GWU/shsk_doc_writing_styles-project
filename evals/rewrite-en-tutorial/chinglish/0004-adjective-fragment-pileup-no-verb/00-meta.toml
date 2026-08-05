@@ -1,0 +1,6 @@
+type = "sentence"
+context = "描述'写简历'拆成的两层工作, 中文用无动词的四字格短句并列(频率低, 深度高), 直译后英文缺主谓结构."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/05-resume-matrix/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_build_resume_matrix-project/examples/05-resume-matrix/README.md"
+
+good_origin = "generated"

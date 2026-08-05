@@ -1,0 +1,1 @@
+3. Help you **compare** raw SQL vs. Core vs. ORM and feel the difference, so you know SQLAlchemy is supported and officially blessed on Snowflake, and when you eventually need it you know which direction to reach.

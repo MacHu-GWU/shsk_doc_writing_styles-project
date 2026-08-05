@@ -1,0 +1,6 @@
+type = "sentence"
+context = "这句用逗号连缀三个独立分句'不改变语义''只是顺便打印''调好了删掉就行', 中间没有连接词, 是典型的中文流水句结构."
+source_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/05-sequential-chains/README-cn.md"
+literal_doc = "/Users/sanhehu/Documents/GitHub/learn_ai_development_basic-project/examples/05-sequential-chains/README.md"
+
+good_origin = "generated"
