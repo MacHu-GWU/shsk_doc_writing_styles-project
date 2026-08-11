@@ -15,6 +15,33 @@ x.y.z (Backlog)
 **Miscellaneous**
 
 
+0.2.1 (2026-08-11)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Features and Improvements**
+
+- Add a ``rewrite-in-*`` style skill collection to the ``doc-writing-styles`` plugin. Each style is a skill that rewrites a blog draft into one recognizable voice, with the voice defined by reference articles bundled alongside the skill rather than by a long list of rules. Four styles ship in this release:
+
+  - ``rewrite-in-analytical-deep-dive-essay``: thesis-driven argumentative essay that builds a case, takes counterarguments seriously, and closes with implications. Reference articles from Dan Luu's blog.
+  - ``rewrite-in-career-growth-narrative``: mentor-to-peer career advice delivered through stories and frameworks rather than formal argument. Reference articles from Swizec's blog.
+  - ``rewrite-in-conversational-builder``: a senior engineer thinking out loud about what they built, opinionated but willing to say "I don't know". Reference articles from Armin Ronacher's blog.
+  - ``rewrite-in-technical-tutorial-breakdown``: dense technical material broken into a scannable hierarchy, concepts defined before they are explained, code sandwiched between explanations. Reference articles from Sebastian Raschka's blog.
+
+- Each style also ships a ``-cn`` and a ``-en`` variant that pins the output language and the default output path, so the same style guide can produce a Chinese or an English draft. These variants are still thin, and multi-language output is not solid yet. Treat them as a first cut rather than a finished feature.
+
+**Minor Improvements**
+
+- Add the ``check-markdown-structure`` skill to the plugin. It lines up the block skeletons (headings, code blocks, tables, quotes, images, lists, rules) of two Markdown files and reports where they stop matching. Intended as a check after a translation or rewrite. It reads only and never edits.
+- Update the plugin description to say what the plugin now does: a Chinese to English rewriting pipeline that aims at natively-written English and verifies nothing was lost.
+
+**Miscellaneous**
+
+- Add ``evals/rewrite-en-tutorial/chinglish``, a case library of 220 Chinglish fragments. Each case holds the Chinese source, the literal English a machine produced from it, and the English a native writer would have written. The library exists to supply voice samples for the style skills and material for manual smoke tests, not to score the pipeline. Its ``README.md`` records why the original rubric-and-LLM-judge plan was dropped.
+- Add the ``chinglish-*`` maintenance skills for that library: ``chinglish-spec`` (shared vocabulary and data contract), ``chinglish-collect`` (mine documents for case pairs), ``chinglish-rewrite`` (author the good English side in bulk), ``chinglish-review`` (flag good versions that are not good enough), and ``chinglish-index`` (regroup, renumber, and regenerate ``INDEX.md``). Add the matching ``mise`` task ``update-rewrite-en-tutorial-chinglish-index-and-review``.
+- Add ``docs/cn-to-en-rewrite-design.md`` to the plugin, recording the design work behind the Chinese to English pipeline, including the measured finding that a thin prompt beat a twelve-thousand-word specification.
+- Rework the repository's own authoring skills: rename ``write-agent-skill`` to ``author-agent-skill`` and give it a Python CLI script standard, add ``author-subagent``, ``create-sub-agent``, ``skill-subagent-design``, and ``init-claude-messages``. These are development tooling for this repository and are not part of the published plugin.
+- Bump the ``doc-writing-styles`` plugin version to ``0.2.1`` in ``plugin.json``.
+
+
 0.1.5 (2026-08-04)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Features and Improvements**
